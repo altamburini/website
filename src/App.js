@@ -1,24 +1,39 @@
 import React from "react";
-import logo from "./logo.svg";
+import { Helmet } from "react-helmet";
+import Sidebar from "./components/organisms/sidebar";
+import Introduction from "./components/organisms/introduction";
+import About from "./components/organisms/about";
+import Timeline from "./components/organisms/timeline";
+import Blog from "./components/organisms/blog";
+import Projects from "./components/organisms/projects";
+
 import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload, OKKEY?.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App" id="colorlib-page">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Pagina di Alessandro Tamburini</title>
+        <link rel="canonical" href="http://mysite.com/example" />
+        <meta
+          name="keywords"
+          content="alessandro tamburini, tamburini, romanzo, romanzi, scrittore, 
+scrittori, racconto, racconti, narrativa, 
+tamburini, libri, libro, tondelli"
+        ></meta>
+      </Helmet>
+
+      <div id="container-wrap">
+        <Sidebar></Sidebar>
+        <div id="colorlib-main">
+          <Introduction></Introduction>
+          <About></About>
+          <Timeline></Timeline>
+          <Blog></Blog>
+          <Projects></Projects>
+        </div>
+      </div>
     </div>
   );
 }
