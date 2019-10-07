@@ -1,6 +1,5 @@
 {
   "homepage": "http://altamburini.github.io/website",
-  "repo": "git@github-alex-sito.com:altamburini/website.git",
   "name": "alexsite",
   "version": "0.1.0",
   "private": true,
