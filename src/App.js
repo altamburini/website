@@ -3,9 +3,11 @@ import { Helmet } from "react-helmet";
 import Sidebar from "./components/organisms/sidebar";
 import Introduction from "./components/organisms/introduction";
 import About from "./components/organisms/about";
-import Timeline from "./components/organisms/timeline";
-import Blog from "./components/organisms/blog";
-import Projects from "./components/organisms/projects";
+import Works from "./components/organisms/works";
+import NewWork from "./components/organisms/newWork";
+import OnlineWorks from "./components/organisms/onlineWorks";
+import Bookmarks from "./components/organisms/bookmarks";
+
 
 import "./App.css";
 
@@ -29,9 +31,11 @@ tamburini, libri, libro, tondelli"
         <div id="colorlib-main">
           <Introduction></Introduction>
           <About></About>
-          <Timeline></Timeline>
-          <Blog></Blog>
-          <Projects></Projects>
+          <Works></Works>
+          <NewWork></NewWork>
+          <OnlineWorks></OnlineWorks>
+          <Bookmarks></Bookmarks>
+        
         </div>
       </div>
     </div>

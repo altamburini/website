@@ -19,7 +19,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div
                 className="author-img"
-                style={{ backgroundImage: "url(images/about.jpg)" }}
+                style={{ backgroundImage: "url(images/foto/foto_sidebar.jpg)" }}
               />
               <h1 id="colorlib-logo">
                 <a href="index.html">Alessandro Tamburini</a>
@@ -33,33 +33,43 @@ export default class Sidebar extends Component {
                 <ul>
                   <li className="active">
                     <a href="#home" data-nav-section="home">
-                      Introduction
+                      Pagina Iniziale
                     </a>
                   </li>
                   <li>
                     <a href="#about" data-nav-section="about">
-                      About
+                      Nota Biografica
                     </a>
                   </li>
                   <li>
-                    <a href="#projects" data-nav-section="projects">
-                      Projects
+                    <a href="#works" data-nav-section="works">
+                      Opere
                     </a>
                   </li>
                   <li>
-                    <a href="#blog" data-nav-section="blog">
-                      Blog
+                    <a href="#newworks" data-nav-section="newworks">
+                      Nuovo Romanzo
                     </a>
                   </li>
                   <li>
-                    <a href="#timeline" data-nav-section="timeline">
-                      Timeline
+                    <a href="#onlineworks" data-nav-section="onlineworks">
+                      Racconti Online
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#bookmarks" data-nav-section="bookmarks">
+                      Bookmarks
+                    </a>
+                  </li>
+                  <li>
+                    <a href="alessandro-tamburini@libero.it">
+                      Posta
                     </a>
                   </li>
                 </ul>
               </div>
             </nav>
-            <nav id="colorlib-main-menu">
+            {/* <nav id="colorlib-main-menu">
               <ul>
                 <li>
                   <a
@@ -137,7 +147,7 @@ export default class Sidebar extends Component {
               <p>
                 <small>Something coming soon !!</small>
               </p>
-            </div>
+            </div> */}
           </aside>
         </div>
       </div>

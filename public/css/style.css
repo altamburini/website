@@ -434,10 +434,11 @@ body.offcanvas {
   margin-bottom: 30px; }
 
 .about-desc h3 {
-  font-size: 18px;
+  font-size: 36px;
   text-transform: uppercase;
   letter-spacing: 5px;
-  font-weight: 500; }
+  font-weight: 500;
+  color: #cad1d6 }
 
 .hire {
   padding: 2em;
