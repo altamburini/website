@@ -62,7 +62,7 @@ export default class Sidebar extends Component {
                     </a>
                   </li>
                   <li>
-                    <a href="alessandro-tamburini@libero.it">
+                  <a href="#sendmail" data-nav-section="sendmail">
                       Posta
                     </a>
                   </li>
