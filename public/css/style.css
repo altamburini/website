@@ -434,11 +434,11 @@ body.offcanvas {
   margin-bottom: 30px; }
 
 .about-desc h3 {
-  font-size: 36px;
-  text-transform: uppercase;
+  font-size: 28px;
+  /* text-transform: uppercase; */
   letter-spacing: 5px;
-  font-weight: 500;
-  color: #cad1d6 }
+  font-weight: 800;
+  color: #ffffff }
 
 .hire {
   padding: 2em;
@@ -861,7 +861,10 @@ body.offcanvas {
       .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
         font-size: 28px; } }
 
-.blog-entry {
+
+
+
+        .blog-entry {
   width: 100%;
   float: left;
   background: #fff;

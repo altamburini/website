@@ -15,7 +15,7 @@ export default class Works extends Component {
 				<div className="row">
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<a href="#myModal" data-toggle="modal" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i className="icon-bubble3" /> 4</small></span>
 							<h3><a href="blog.html">Renovating National Gallery</a></h3>
@@ -45,9 +45,52 @@ export default class Works extends Component {
 					</div>
 				</div>
 				<div className="row">
-					<div className="col-md-12 animate-box">
-					<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
-					</div>
+				<a href="#myModal" role="button" class="btn btn-primary" data-toggle="modal">Launch modal</a>
+
+<div class="modal" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-full" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Modal</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body p-4" id="result">
+                    <p>The grid inside the modal is responsive too..</p>
+                    <div class="row">
+                        <div class="col-sm-6 col-lg-3">
+                            Content
+                        </div>
+                        <div class="col-sm-6 col-lg-3">
+                            Content
+                        </div>
+                        <div class="col-sm-6 col-lg-3">
+                            Content
+                        </div>
+                        <div class="col-sm-6 col-lg-3">
+                            Content
+                        </div>
+                        <div class="col-sm-6 col-lg-3">
+                            Content
+                        </div>
+                        <div class="col-sm-6 col-lg-3">
+                            Content
+                        </div>
+                        <div class="col-sm-6 col-lg-3">
+                            Content
+                        </div>
+                        <div class="col-sm-6 col-lg-3">
+                            Content
+                        </div>
+                    </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+        </div>
+    </div>
+</div>
 				</div>
 			</div>
 			</section>

@@ -14,8 +14,7 @@ export default class Bookmarks extends Component {
 					<span className="heading-meta">BookMarks</span>
 					<span className="heading-meta">BookMarks</span>
 					<span className="heading-meta">BookMarks</span>
-					<span className="heading-meta">BookMarks</span>
-					
+					<span className="heading-meta">BookMarks</span>					
 					</div>
 				</div>
 			</div>
