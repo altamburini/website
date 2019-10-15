@@ -6,7 +6,7 @@ import About from "./components/organisms/about";
 import Works from "./components/organisms/works";
 import NewWork from "./components/organisms/newWork";
 import OnlineWorks from "./components/organisms/onlineWorks";
-import Bookmarks from "./components/organisms/bookmarks";
+// import Bookmarks from "./components/organisms/bookmarks";
 import SendMail from "./components/organisms/sendmail";
 
 

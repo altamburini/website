@@ -1,6 +1,16 @@
 import React, { Component } from 'react'
-import WorksLuciDelTreno from "../atoms/works_lucideltreno"
 import WorksUltimaSera from "../atoms/works_ultimasera"
+import WorksPrimoMondo from "../atoms/works_primomondo"
+import WorksLuciDelTreno from "../atoms/works_lucideltreno"
+import WorksPortaAperta from "../atoms/works_portaaperta"
+import WorksOnoreArmi from "../atoms/works_onorearmi"
+import WorksDueVolteLalba from "../atoms/works_duevoltelalba"
+import WorksBagaglioLeggero from "../atoms/works_bagaglioleggero"
+import WorksSconosciutoAllaPorta from "../atoms/works_sconosciutoallaporta"
+import WorksAdonai from "../atoms/works_adonai"
+import WorksAllodi from "../atoms/works_allodi"
+import WorksUomoAlMuro from "../atoms/works_uomoalmuro"
+import WorksGiostraPrimavera from "../atoms/works_giostraprimavera"
 
 export default class Works extends Component {
   render() {
@@ -128,7 +138,18 @@ export default class Works extends Component {
 				
 			</div>
 			<WorksUltimaSera></WorksUltimaSera>
+			<WorksPrimoMondo></WorksPrimoMondo>
 			<WorksLuciDelTreno></WorksLuciDelTreno>
+			<WorksPortaAperta></WorksPortaAperta>
+			<WorksOnoreArmi></WorksOnoreArmi>
+			<WorksDueVolteLalba></WorksDueVolteLalba>
+			<WorksBagaglioLeggero></WorksBagaglioLeggero>
+			<WorksSconosciutoAllaPorta></WorksSconosciutoAllaPorta>
+			<WorksAdonai></WorksAdonai>
+			<WorksAllodi></WorksAllodi>
+			<WorksUomoAlMuro></WorksUomoAlMuro>
+			<WorksGiostraPrimavera></WorksGiostraPrimavera>
+			
 			</section>
       </div>
     )

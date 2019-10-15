@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 
-export default class WorksLuciDelTreno extends Component {
+export default class WorksUltimaSera extends Component {
   render() {
     return (
- <div class="modal" id="workslucitreno" tabindex="-1" role="dialog" aria-hidden="true">
+ <div class="modal" id="worksgiostraprimavera" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-full" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -13,7 +13,7 @@ export default class WorksLuciDelTreno extends Component {
                 </button>
             </div>
             <div class="modal-body p-4" id="result">
-                    <p>The grid inside LUCIDELTRENOOOOOO  the modal is responsive too..</p>
+                    <p>The grid inside GIOSTRAAA  the modal is responsive too..</p>
                     <div class="row">
                         <div class="col-sm-6 col-lg-3">
                             Content
