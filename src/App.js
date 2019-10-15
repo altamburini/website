@@ -31,9 +31,9 @@ tamburini, libri, libro, tondelli"
         <Sidebar></Sidebar>
         <div id="colorlib-main">
           <Introduction></Introduction>
-          <About></About>
-          <Works></Works>
           <NewWork></NewWork>
+          <About></About>
+          <Works></Works>         
           <OnlineWorks></OnlineWorks>
           {/* <Bookmarks></Bookmarks> */}
           <SendMail></SendMail>

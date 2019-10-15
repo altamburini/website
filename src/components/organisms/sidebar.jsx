@@ -37,6 +37,11 @@ export default class Sidebar extends Component {
                     </a>
                   </li>
                   <li>
+                    <a href="#newwork" data-nav-section="newwork">
+                      Nuovo Romanzo
+                    </a>
+                  </li>
+                  <li>
                     <a href="#about" data-nav-section="about">
                       Nota Biografica
                     </a>
@@ -46,14 +51,10 @@ export default class Sidebar extends Component {
                       Opere
                     </a>
                   </li>
-                  <li>
-                    <a href="#newwork" data-nav-section="newwork">
-                      Nuovo Romanzo
-                    </a>
-                  </li>
+                 
                   <li>
                     <a href="#onlineworks" data-nav-section="onlineworks">
-                      Racconti Online
+                      Testi Online
                     </a>
                   </li>
                   {/* <li>

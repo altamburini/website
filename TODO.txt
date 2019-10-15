@@ -1,0 +1,8 @@
+- Pagine singolo libro
+- nuovo romanzo
+- Styling globale sidebar e area principale
+- styling foto home
+- styling nota biografica
+- styling testi opere
+- styling racconti online
+- styling messaggio
