@@ -56,11 +56,11 @@ export default class Sidebar extends Component {
                       Racconti Online
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href="#bookmarks" data-nav-section="bookmarks">
                       Bookmarks
                     </a>
-                  </li>
+                  </li> */}
                   <li>
                   <a href="#sendmail" data-nav-section="sendmail">
                       Posta

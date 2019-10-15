@@ -10,48 +10,125 @@ export default class Works extends Component {
 			<div className="colorlib-narrow-content">
 				<div className="row">
 					<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-					<span className="heading-meta">Read</span>
-					<h2 className="colorlib-heading">Recent Blog</h2>
+					<h2 className="colorlib-heading">Opere Letterarie</h2>
 					</div>
 				</div>
 				<div className="row">
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-					<div className="blog-entry">
-						<a href="#worksultimasera" data-toggle="modal" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
-						<div className="desc">
-							<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="blog.html">Renovating National Gallery</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						<div className="blog-entry">
+							<a href="#worksultimasera" data-toggle="modal" className="blog-img"><img src="images/copertine/ultima_sera.jpg" className="img-responsive" alt="book cover" /></a>
+							<div className="desc">
+								<span><small>Ultima sera dell'anno <br/> Racconti <br/> Il Lavoro Editoriale, Ancona <br/> 1988 </small></span>
+							</div>
 						</div>
 					</div>
-					</div>
-					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
-					<div className="blog-entry">
-						<a href="#workslucideltreno" data-toggle="modal" className="blog-img"><img src="images/blog-2.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
-						<div className="desc">
-							<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="blog.html">Wordpress for a Beginner</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-						</div>
-					</div>
-					</div>
+				
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/blog-3.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
-						<div className="desc">
-							<span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="blog.html">Make website from scratch</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						<div className="blog-entry">
+							<a href="#worksprimomondo" data-toggle="modal" className="blog-img"><img src="images/copertine/nel_nostro_primo_mondo.jpg" className="img-responsive" alt="book cover" /></a>
+							<div className="desc">
+								<span><small>Nel nostro primo mondo <br/> Racconti <br/> Marsilio Editori, Venezia <br/> 1990 </small></span>
+							</div>
 						</div>
 					</div>
+			
+					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div className="blog-entry">
+							<a href="#workslucitreno" data-toggle="modal" className="blog-img"><img src="images/copertine/le_luci_del_treno.jpg" className="img-responsive" alt="book cover" /></a>
+							<div className="desc">
+								<span><small>Le luci del treno <br/> Romanzo <br/> Marsilio Editori, Venezia <br/> 1992 </small></span>
+							</div>
+						</div>
 					</div>
+
+					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div className="blog-entry">
+							<a href="#worksportaaperta" data-toggle="modal" className="blog-img"><img src="images/copertine/la_porta_e_aperta.jpg" className="img-responsive" alt="book cover" /></a>
+							<div className="desc">
+								<span><small>La porta è aperta <br/> Racconti <br/> Marsilio Editori, Venezia <br/> 1994 </small></span>
+							</div>
+						</div>
+					</div>
+
+					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div className="blog-entry">
+							<a href="#worksonorearmi" data-toggle="modal" className="blog-img"><img src="images/copertine/onore_delle_armi.jpg" className="img-responsive" alt="book cover" /></a>
+							<div className="desc">
+								<span><small>L'onore delle armi <br/> Romanzo <br/> Bompiani, Milano <br/> 1997 </small></span>
+							</div>
+						</div>
+					</div>
+
+					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div className="blog-entry">
+							<a href="#worksduevoltelalba" data-toggle="modal" className="blog-img"><img src="images/copertine/duevoltelalba.jpg" className="img-responsive" alt="book cover" /></a>
+							<div className="desc">
+								<span><small>Due volte l'alba <br/> Romanzo <br/> Marsilio Editori, Venezia <br/> 2002 </small></span>
+							</div>
+						</div>
+					</div>
+
+					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div className="blog-entry">
+							<a href="#worksbagaglioleggero" data-toggle="modal" className="blog-img"><img src="images/copertine/bagaglio_leggero.jpg" className="img-responsive" alt="book cover" /></a>
+							<div className="desc">
+								<span><small>Bagaglio lggero <br/> Romanzo <br/> peQuod <br/> 2006 </small></span>
+							</div>
+						</div>
+					</div>
+
+					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div className="blog-entry">
+							<a href="#workssconosciutoallaporta" data-toggle="modal" className="blog-img"><img src="images/copertine/sconosciuto.jpg" className="img-responsive" alt="book cover" /></a>
+							<div className="desc">
+								<span><small>Uno sconosciuto alla porta <br/> Racconti <br/> peQuod <br/> 2008 </small></span>
+							</div>
+						</div>
+					</div>
+
+					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div className="blog-entry">
+							<a href="#worksadonai" data-toggle="modal" className="blog-img"><img src="images/copertine/adonai.jpg" className="img-responsive" alt="book cover" /></a>
+							<div className="desc">
+								<span><small>Quel che so di Adonai <br/> Romanzo <br/> peQuod <br/> 2010 </small></span>
+							</div>
+						</div>
+					</div>
+
+					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div className="blog-entry">
+							<a href="#worksallodi" data-toggle="modal" className="blog-img"><img src="images/copertine/allodi.jpg" className="img-responsive" alt="book cover" /></a>
+							<div className="desc">
+								<span><small>Italo allodi. Ascesa e caduta di un Principe del calcio<br/> Biografia <br/> Italic-peQuod <br/> 2012 </small></span>
+							</div>
+						</div>
+					</div>
+
+					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div className="blog-entry">
+							<a href="#worksuomoalmuro" data-toggle="modal" className="blog-img"><img src="images/copertine/uomo_al_muro.jpg" className="img-responsive" alt="book cover" /></a>
+							<div className="desc">
+								<span><small>L'uomo al muro. Fenoglio e la guerra nei ventitre giorni della città di alba<br/> Monografia <br/> Italic-peQuod <br/> 2016 </small></span>
+							</div>
+						</div>
+					</div>
+
+					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+						<div className="blog-entry">
+							<a href="#worksgiostraprimavera" data-toggle="modal" className="blog-img"><img src="images/copertine/giostraprimavera.png" className="img-responsive" alt="book cover" /></a>
+							<div className="desc">
+								<span><small>Giostra primavera<br/> Romanzo <br/> Italic-peQuod <br/> 2018 </small></span>
+							</div>
+						</div>
+					</div>
+
 				</div>
-				<div className="row">
-				<a href="#myModal" role="button" class="btn btn-primary" data-toggle="modal">Launch modal</a>
-<WorksUltimaSera></WorksUltimaSera>
-<WorksLuciDelTreno></WorksLuciDelTreno>
-				</div>
+				
+
+				
 			</div>
+			<WorksUltimaSera></WorksUltimaSera>
+			<WorksLuciDelTreno></WorksLuciDelTreno>
 			</section>
       </div>
     )

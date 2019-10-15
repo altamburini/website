@@ -11,9 +11,10 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
+
                     {/* <span className="heading-meta">About Us</span> */}
                     <h2 className="colorlib-heading">Nota Biografica</h2>
-                    <p>Nato a Rovereto da genitori emiliani, si è laureato in filosofia a Bologna e dopo aver abitato in diverse città si è stabilito a Trento, dove insegna lettere in una scuola media superiore.</p>
+                    <p>Nato a Rovereto da genitori emiliani, Alessandro Tamburini si è laureato in filosofia a Bologna e dopo aver abitato in diverse città si è stabilito a Trento, dove insegna lettere in una scuola media superiore.</p>
                     <p>Dando seguito a una tradizione di famiglia (nonno liutaio, madre chitarrista, sorella compositrice e docente di musica elettronica) si è occupato di musica contemporanea e nel 1986 ha pubblicato il saggio "Il calcolatore e la musica" (Franco Muzzio Editore, Padova).</p>
                     <p>Ha esordito nella narrativa nel 1988 con la raccolta di racconti "Ultima sera dell'anno" (Il lavoro editoriale, Ancona). In seguito ha pubblicato le raccolte di racconti "Nel nostro primo mondo" (Marsilio, 1990, Presentazione di Pier Vittorio Tondelli, Premio Settembrini), "La porta è aperta" (Marsilio, 1994) e "Uno sconosciuto alla porta" (peQuod, 2008, Premio Comisso), nonché i romanzi "Le luci del treno" (Marsilio, 1992, Premio Sirmione-Catullo), "L'onore delle armi" (Bompiani, 1997, Premio Città di Catanzaro, Premio Grinzane Cavour), "Due volte l'alba" (Marsilio, 2002, Premio San Felice Circeo, La letteratura del mare ), "Bagaglio leggero" (peQuod, 2006). "Quel che so di Adonai" (Italic-peQuod, 2010). Nel 2012 ha pubblicato la biografia "Italo Allodi, Ascesa e caduta di un principe del calcio", edito da Italic-peQuod. Suoi racconti sono apparsi in numerose riviste e antologie, tra cui "Italiana, antologia dei nuovi narratori"(Mondadori 1991, poi negli Oscar 1996), e "Patrie impure" (Rizzoli 2003).</p>
 
