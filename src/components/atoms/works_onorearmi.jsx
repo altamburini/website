@@ -9,7 +9,7 @@ export default class WorksUltimaSera extends Component {
                         <div class="modal-header">
                             <h5 class="modal-title"><strong>&quot;L'onore delle
         armi&quot; </strong>(romanzo): <em>Bompiani, 1997, Milano.</em><br /> <br />Finalista
-                                                                                                                                                                                                                                                                                Premio Rea. Vincitore Premio città di Catanzaro.
+                                                                                                                                                                                                                                                                                                        Premio Rea. Vincitore Premio città di Catanzaro.
         Vincitore Premio Grinzane Cavour.</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">CHIUDI</span>
