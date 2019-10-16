@@ -1,54 +1,156 @@
 import React, { Component } from 'react'
 
 export default class WorksUltimaSera extends Component {
-  render() {
-    return (
- <div class="modal" id="worksduevoltelalba" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog modal-full" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">Modal</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">×</span>
-                </button>
-            </div>
-            <div class="modal-body p-4" id="result">
-                    <p>The grid inside DUEVOLTELALBAAA  the modal is responsive too..</p>
-                    <div class="row">
-                        <div class="col-sm-6 col-lg-3">
-                            Content
+    render() {
+        return (
+            <div class="modal" id="worksduevoltelalba" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-full" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title"><strong>&quot;Due volte l'alba&quot; </strong>(romanzo): <em>Marsilio Editori, Venezia, 2002.</em><br /> <br /></h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">×</span>
+                            </button>
                         </div>
-                        <div class="col-sm-6 col-lg-3">
-                            Content
-                        </div>
-                        <div class="col-sm-6 col-lg-3">
-                            Content
-                        </div>
-                        <div class="col-sm-6 col-lg-3">
-                            Content
-                        </div>
-                        <div class="col-sm-6 col-lg-3">
-                            Content
-                        </div>
-                        <div class="col-sm-6 col-lg-3">
-                            Content
-                        </div>
-                        <div class="col-sm-6 col-lg-3">
-                            Content
-                        </div>
-                        <div class="col-sm-6 col-lg-3">
-                            Content
-                        </div>
-                    </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
-            </div>
-        </div>
-    </div>
+                        <div class="modal-body p-4" id="result">
+
+
+
+                            <div align="left">
+
+
+
+
+                                <br />
+                                Milo è un docente di Economia, è separato da anni, ha una figlia adolescente che vive insieme alla m<br /><br/>
+                                    e solo ogni tanto trascorre dei brevi periodi con lui. <br />
+                                    All'inizio di questa storia lo vediamo partire per una vacanza al mare insieme a Silvia,<br />
+                                    la compagna con cui ha una relazione da qualche mese, e al figlio sedicenne di lei. <br />
+                                    Il caso o il destino fanno sì che proprio lungo il tragitto che lo porta verso il luogo della vacanz<br />r>
+  la riviera Adriatica dove ha vissuto gli anni della propria giovinezza, Milo si ritrovi davanti<br />
+                                    l'immagine di Iana, il primo e ineguagliato amore della sua vita. <br />
+                                    Una donna dotata di una personalità forte e nel contempo fragilissima, generosa e inquieta<br />r>
+  Da quel momento la figura di Iana comincia ad agire come una trivella, che gli fa franare sotto i piedi <br />
+                                    il terreno della propria sorvegliata esistenza.<br />
+                                    Milo vive con Silvia e suo figlio i primi giorni di mare, viene raggiunto per qualche giorno anche alla figlia,<br />
+                                    ma i suoi pensieri sono sempre più assorbiti da Iana, finchè decide di partire alla sua ricerca.<br /><br/>
+                                        L'indagine si trasforma in un inseguimento, in un viaggio al termine del quale Milo scoprirà in sè una nuova volontà e capacità di vivere il presente.
+<br /><br />
+
+
+
+                                        <strong>Incipit</strong> <br /><br />
+
+                                        L�ho ucciso. Sono stato io. Solo dirlo mi fa inorridire ed � accaduto. Un ragazzo di ventidue anni. Non l�ho visto, impossibile vederlo. Mi � schizzato davanti come uno straccio alzato dal vento. Lo vedo come in sogno. Vorrei che fosse un sogno ma so che � tutto vero. E� successo da quattro ore e pare un momento fa, poi invece mi sembra passata un�eternit� da quando sono precipitato in questo abisso. <br/>
+                                            E� buio pesto e piove a dirotto, i tergicristallo a doppia velocit� non bastano a tenere sgombro il parabrezza. Ho sollevato una colonna d�acqua con le ruote di destra poco prima. Neanche il tempo di piantare il piede sul pedale del freno. Non potevo fare niente per evitarlo. Continuo a ripetermelo fino a spolpare le parole ma non serve. Le parole dicono una verit� futile, che non riesce nemmeno a sfiorare ci� che � accaduto. <br/>
+                                                L�impatto � stato tremendo. Una volta ho investito un cane, un grosso cane e anche l� era di notte. Ci si accorge che si tratta di qualcosa di vivo, di carne e ossa. Si sente la vita che si spezza. Ma stavolta era un uomo, un ragazzo. L�ho preso in pieno, spazzato via come un birillo. Travolto col peso di un macigno. Ha lasciato una scarpa in mezzo alla carreggiata, un mocassino sformato che si � riempito di pioggia, ho visto le gocce che ci schizzavano dentro.<br/>
+                                                    Mi � sembrato di colpirlo col mio stesso corpo, da come l�urto mi si � scaricato nelle membra. Le braccia irrigidite sul volante hanno cominciato a tremare e da quel momento non hanno pi� smesso. Ho sentito il colpo della testa contro il cofano, prima che il corpo fosse scagliato via.<br/>
+                                                        Vedere no, non ho visto quasi niente. Un�ombra che piroetta davanti al vetro. Ha attraversato come un gatto, si � lanciato avanti senza guardare. � saltato gi� dal guardrail. Come ha potuto non vedere i fari? Ha calcolato male i tempi. � rimasto abbagliato. Diluvia e il corpo a terra � fradicio, zuppo come una spugna. Non si vede nemmeno una goccia di sangue e l�acqua gli stilla dai capelli. <br/>
+                                                            Sono bagnato fradicio anch�io. La pioggia mi scorre a rivoli sulle guance e gi� per la schiena. Lo guardo da vicino, alla luce delle torce dei poliziotti. Il corpo � sdraiato sul limite della carreggiata, a faccia in gi�, col viso piegato e un braccio allungato sopra la testa, come se stesse nuotando. Senza scarpe i piedi sembrano piccoli, nei calzini di cotone con la riga rossa. <br/>
+                                                                Dal suo profilo, pi� che dal colore della pelle, capisco subito che � straniero. Ha gli occhi appena socchiusi e per un momento voglio ancora sperare che sia vivo, ma il poliziotto che si � chinato su di lui si rialza e mi dice che � morto. <br/>
+                                                                    �� morto sul colpo� ha precisato. Come faceva a esserne cos� sicuro? Quando gli infermieri hanno rimosso il corpo ho visto che era spezzato in due, non si tenevano pi� insieme le gambe col tronco. Sulla mia auto solo una modesta ammaccatura, e un faro incrinato. Le automobili sono armi improprie che andrebbero proibite. La patente non pu� essere una licenza di uccidere, seppure in osservanza della legge, nel rispetto del codice stradale. <br/>
+                                                                        Andavo sotto i settanta, che � il limite di velocit� di quel tratto. Non � stata colpa mia. Quel tipo non si stancava di ripetermelo, col suo bravo giubbetto a strisce arancioni che io neanche avevo considerato di indossare. Continuava a dirlo al poliziotto che stendeva il verbale, e a me assicurava che sarebbe anche stato disposto a testimoniarlo. Mi prefigurava l�aula del tribunale col giudice togato e altri quadri temibili, ma che erano niente in confronto al corpo battuto dalla pioggia. <br/>
+                                                                            L�ho ucciso ma non � stata colpa mia: il non senso � evidente. Un ragazzo di ventidue anni, meno di met� di quelli che ho io, pi� giovane dei miei figli. Un crimine contro natura. Ho ucciso un uomo e questo mi colma di orrore e mi rivolgo a Dio e gli domando: come hai potuto generare una creatura capace di un abominio simile!?
+                                                                            
+                                                                            
+                                        <br />
+
+                                                                            <strong>ne hanno scritto:</strong> <br /><br />
+
+                                                                            Fulvio Panzeri, Avvenire  30/04/2002<br />
+                                                                            Roberto Carnero, Famiglia Cristiana 28/04/2002<br />
+                                                                            Giuseppe Amoroso, Gazzetta del Sud 12/04/2002<br />
+                                                                            Massimo Onofri, Il Diario della settimana 23/08/2002<br />
+                                                                            Luigi Serravalli, Alto Adige 03/04/2002<br />
+                                                                            Guido Conti, Italia Oggi 25/05/2002<br />
+                                                                            Daniele Piccini, Il Giornale 15/05/2002<br />
+                                                                            Lisa Oppici, Gazzetta di Parma 04/07/2002<br />
+                                                                            Francesco Roat, L'Indice dei libri del mese Luglio-Agosto 2002<br />
+                                                                            Alessandro Genovese, L'Adige 26/03/2002<br />
+                                                                            Silvia Ceschini, Vita Trentina 24/03/2002
+Carlo Martinelli, Trentino Magazine 31/05/2002<br />
+                                                                            Giuseppe Petralia, Il Belice Agosto 2002<br />
+                                                                            Il Piccolo di Trieste 07/07/2002<br />
+                                                                            L'Espresso 18/07/2002
+                                                                            
+                                                                            
+                                                                            
 </div>
 
 
-    )
-  }
-}
+
+
+
+
+
+
+
+
+
+
+            </div>
+
+
+
+
+
+            <div align="left">
+<strong>Selezione Stampa</strong>
+
+<table border="0" align="center" cellspacing="7"  align="left" >
+     <tr>
+        
+        <td align="center" width="100%">&quot;Incoscienti speranze&quot; di
+       Massimo Onofri. (166k)</td><td><a href="rec\alba-incoscientisperanze.zip"><img
+        src="./img/rec/alba-incoscientisperanze_small.jpg" alt="scarica in formato zip" width="160" height="200"></img></a>
+
+        </td>
+ </tr>
+
+     <tr>
+        
+        <td align="center" width="100%">&quot;L'eterno rimpianto di un amore perduto&quot; di
+       Robero Carnero. (102k)</td><td><a href="rec\alba-leternorimpianto.zip"><img
+        src="./img/rec/alba-leternorimpianto_small.jpg" alt="scarica in formato zip" width="160" height="160"></img></a>
+
+        </td>
+ </tr>
+
+   <tr>
+        
+        <td align="center" width="100%">&quot;Chiamato a fare i conti con l'infido universo&quot; di
+       Giuseppe Amoroso. (102k)</td><td><a href="rec\alba-conticonluniverso.zip"><img
+        src="./img/rec/alba-conticonluniverso_small.jpg" alt="scarica in formato zip" width="160" height="349"></img></a>
+
+        </td>
+ </tr>
+
+
+
+ 
+
+
+
+ 
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+                                                                    <div class="modal-footer">
+                                                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                                                        )
+                                                      }
+                                                    }
