@@ -22,7 +22,7 @@ export default class Sidebar extends Component {
                 style={{ backgroundImage: "url(images/foto/foto_sidebar.jpg)" }}
               />
               <h1 id="colorlib-logo">
-                <a href="index.html">Alessandro Tamburini</a>
+                <a href="/">Alessandro Tamburini</a>
               </h1>
               {/* <span className="email">
                 <i className="icon-mail"></i> email_address
