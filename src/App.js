@@ -35,7 +35,6 @@ tamburini, libri, libro, tondelli"
           <About></About>
           <Works></Works>         
           <OnlineWorks></OnlineWorks>
-          {/* <Bookmarks></Bookmarks> */}
           <SendMail></SendMail>
         </div>
       </div>
