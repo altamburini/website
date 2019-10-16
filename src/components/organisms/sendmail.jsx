@@ -4,17 +4,17 @@ export default class SendMail extends Component {
   render() {
     return (
       <div>
-        <section className="colorlib-blog" data-section="sendmail">
+        <section className="colorlib-about" data-section="sendmail">
           <div className="colorlib-narrow-content">
-            <form action="mailto:alessandro-tamburini@libero.it" method="GET" target="_blank">
-              <h1 class="title">Invia un messaggio:</h1>
-              <div class="field"><label className="colorlib-heading">Titolo</label>
-                <input name="subject" id="subject" type="text" class="input" value="" /></div>
-              <div class="field"><label className="colorlib-heading">Testo</label>
-                <textarea class="textarea" name="body" id="body"></textarea></div>
-              <div>
-                <input type="submit" value="Invia" class="button is-primary" /></div>
-            </form>
+
+            <div className="text-center">
+
+              <span className="email"><i className="icon-mail"></i><a href="mailto:alessandro-tamburini@libero.it" target="_blank">alessandro-tamburini@libero.it</a></span>
+            </div>
+
+
+
+
             <hr />
           </div>
         </section>

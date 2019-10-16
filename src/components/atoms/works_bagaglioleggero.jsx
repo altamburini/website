@@ -18,7 +18,7 @@ export default class WorksUltimaSera extends Component {
                                 Il ritrovamento di una bomba, un ordigno bellico riemerso a cinquant'anni dalla fine della guerra,
                                 rende necessario lo sgombero di una Casa di riposo. La cosa crea grande scompiglio fra gli anziani
                                 ospiti: alcuni non escono da anni, qualcuno perfino dalla propria stanza e l'inaspettata variazione
-                                di programma si prospetta ai loro occhi come un�autentica avventura. Ma per tutti quella bomba inesplosa
+                                di programma si prospetta ai loro occhi come un'autentica avventura. Ma per tutti quella bomba inesplosa
                                 diventa anche il simbolo di un dolore mai sopito: vite spezzate, famiglie divise, inguaribili ferite.
                                 Ciascuno è spinto a far ritorno alla propria giovinezza, seguendo un percorso di memoria che ha l'arco
                                 di una vita intera, resa ormai immobile dal torpore degli anni. La tanto attesa giornata lascerà una
@@ -29,7 +29,7 @@ export default class WorksUltimaSera extends Component {
                                 verso un futuro che non c'era e che neanche avrebbero potuto immaginare prima. Scandito da una prosa
                                 essenziale, che ritrae le tensioni emotive dei paesaggi interiori, Bagaglio leggero non è solo un romanzo
                                 alla ricerca delle infinite sfumature nel rapporto tra identità e memoria. In esso, il dolore del ricordare
-                                diviene infatti viatico a un'elegia della maturit� ultima dell'uomo: solo quando si è capaci di sopportare
+                                diviene infatti viatico a un'elegia della maturità ultima dell'uomo: solo quando si è capaci di sopportare
                                 i rimpianti della vita trascorsa si ha la forza per comprendere ed esplorare il significato estremo dell'amore e dell'esserci.
                                 <br />
                                 <strong>ne hanno scritto:</strong> <br /><br />
@@ -42,12 +42,12 @@ export default class WorksUltimaSera extends Component {
                                 Roberto Carnero, Famiglia cristiana. N. 27, 06 <br />
                                 Sandra Mattei, Il Trentino. 7/5/06 <br />
                                 Alessandro De Bertolini, Corriere del Trentino. 10/5/06 e 20/5/06 <br />
-                                Alessandro Genovese, L�Adige. 7/5/0<br />r>
+                                Alessandro Genovese, L'Adige. 7/5/0<br />r>
                                 Carlo Andreatta, I Quattro vicariati e Totemblueaart, giugno 06 <br />
                                 Elena Fontana, Vita Trentina. 11/6/06 <br />
                                 Luca Coser, Corriere del Trentino. 8/3/06 <br />
-                                Roberto Antolini, L�Adige. 8/6/0<br />r>
-                                Eica De Matt� e Carlo Andreatta, Didascalie. Ottobre 0<br />r>
+                                Roberto Antolini, L'Adige. 8/6/0<br />r>
+                                Eica De Mattè e Carlo Andreatta, Didascalie. Ottobre 0<br />r>
                                 Cla. Ro., Corriere di Cesena. 27/5/06 <br />
                                 Maria Ida Clementoni, Corriere del Trentino. 13/7/06 <br />
                                 Francesco Roat, Stilos. 06 <br />
@@ -79,49 +79,49 @@ export default class WorksUltimaSera extends Component {
                                                 
                                                 <div class="tabelindex1">
                                                     Fulvio Panzeri, L'Avvenire<br /><br />Il nuovo romanzo di Alessandro Tamburini ci racconta,<br />in modo inedito, la
-                                                    vita quotidiana in un luogo che � poco raccontato dagli scrittori, la Casa di Riposo, con<br />la presenza degli anziani, 
+                                                    vita quotidiana in un luogo che è poco raccontato dagli scrittori, la Casa di Riposo, con<br />la presenza degli anziani, 
                                                     con le loro
                                                                                                                                                                                 storie private, con la nostalgia, ma anche la paura di un passato
-                                                                                                                                                                                che sembra lancinante da ritrovare. Gi� Guido Conti lo scorso anno
+                                                                                                                                                                                che sembra lancinante da ritrovare. Giò Guido Conti lo scorso anno
             con <i>Il tramonto della pianura</i> aveva scelto un ospizio come
                                                                                                                                                                                 sfondo del suo romanzo, in un'ottica tutta particolare, quella della
                                                                                                                                                                                 metafora novecentesca del contenitore di storie e della memoria da
                                                                                                                                                                                 recuperare, dando all'ospizio come istituzione un valore simbolico.
                                                                                                                                                                                 Tamburini invece ci presenta, attraverso quel suo particolare
-                                                                                                                                                                                "realismo dei sentimenti", la Casa di Riposo in un'ottica pi�
-                                                                                                                                                                                domestica, maggiormente legata al senso del servizio. Cos� risultano
+                                                                                                                                                                                "realismo dei sentimenti", la Casa di Riposo in un'ottica più
+                                                                                                                                                                                domestica, maggiormente legata al senso del servizio. Così risultano
                                                                                                                                                                                 assai convincenti i ritratti degli operatori che seguono gli
-                                                                                                                                                                                anziani, quelli autosufficienti e quelli che non si muovono pi� dal
-                                                                                                                                                                                letto, a partire da Damiana, la pi� comprensiva e la pi� materna, il
+                                                                                                                                                                                anziani, quelli autosufficienti e quelli che non si muovono più dal
+                                                                                                                                                                                letto, a partire da Damiana, la più comprensiva e la più materna, il
                                                                                                                                                                                 cui ritratto si impone come filo conduttore di tutto il volume,
-                                                                                                                                                                                messo a confronto con i modi pi� sbrigativi dei suoi compagni di
-                                                                                                                                                                                lavoro. In lei invece c'� la luce amorevole della piet�, uno sguardo
+                                                                                                                                                                                messo a confronto con i modi più sbrigativi dei suoi compagni di
+                                                                                                                                                                                lavoro. In lei invece c'è la luce amorevole della pietà, uno sguardo
             fortemente<br />protettivo su queste figure esili che la penna felice
                                                                                                                                                                                 di Tamburini registra come ombre tratte dalle tele di Chagall,
                                                                                                                                                                                 soprattutto nell'ultima parte del romanzo, quando la storia si fa
                                                                                                                                                                                 incandescente per un improvviso e poeticissimo colpo di scena.
                                                                                                                                                                                 L'azione narrativa si sviluppa intorno ad un evento che crea una
-            certa novit� nella quieta routine della Casa di Ripos<br />R>che si
-                                                                                                                                                                                trova in una cittadina del Nord, mai nominata nel romanzo, che per�
-                                                                                                                                                                                individuiamo come Trento, la citt� in cui Tamburini vive e che per
+            certa novità nella quieta routine della Casa di Ripos<br />R>che si
+                                                                                                                                                                                trova in una cittadina del Nord, mai nominata nel romanzo, che però
+                                                                                                                                                                                individuiamo come Trento, la città in cui Tamburini vive e che per
                                                                                                                                                                                 la prima volta fa da sfondo ad un suo romanzo. Infatti, durante gli
                                                                                                                                                                                 scavi, in un cantiere, viene rinvenuta una bomba inesplosa e una
                                                                                                                                                                                 domenica deve essere fatta brillare, con conseguente sgombero delle
                                                                                                                                                                                 abitazioni che si trovano nelle circostanze. Anche gli ospiti della
                                                                                                                                                                                 Casa di Riposo devono quindi mettersi in fila per una gita "fuori
-                                                                                                                                                                                programma". Questo "ritrovare" per� di nuovo il mondo esterno � come
+                                                                                                                                                                                programma". Questo "ritrovare" però di nuovo il mondo esterno è come
                                                                                                                                                                                 un colpo destabilizzante alla quiete che ha invaso i loro giorni,
-                                                                                                                                                                                soprattutto perch� la notizia del ritrovamento della bomba porta
+                                                                                                                                                                                soprattutto perchè la notizia del ritrovamento della bomba porta
                                                                                                                                                                                 indietro nella memoria, ai giorni tragici dell'occupazione tedesca,
             alla paura e al dolore dei giorni della Seconda<br />Guerra Mondiale.
                                                                                                                                                                                 Il pensiero va alle occasioni mancate, che hanno dato svolte
                                                                                                                                                                                 repentine al destino di molti di loro, lasciando ad un'esistenza in
-                                                                                                                                                                                cui si � dovuto rinunciare alla pienezza. Di Ludovica, la duchessa,
-                                                                                                                                                                                una delle figure pi� intese del libro, protagonista con
+                                                                                                                                                                                cui si è dovuto rinunciare alla pienezza. Di Ludovica, la duchessa,
+                                                                                                                                                                                una delle figure più intese del libro, protagonista con
                                                                                                                                                                                 l'"emigrante" del ritrovamento e della fuga finale, verso quella
                                                                                                                                                                                 pienezza che in tanti anni ha cercato, Tamburini dice: "Compativa
                                                                                                                                                                                 quelli che cercavano consolazione nei rimasugli della vita
-                                                                                                                                                                                trascorsa. Quando tutto ci� che doveva accadere era gi� accaduto
+                                                                                                                                                                                trascorsa. Quando tutto ciò che doveva accadere era già accaduto
                                                                                                                                                                                 conveniva star soli, senza la fatica di parole
             inutili".<br /><br /><br />
                                                     <hr width="70%" />
@@ -138,18 +138,18 @@ export default class WorksUltimaSera extends Component {
                                                                                                                                                                                         smarrimento. Con felici tratti descrittivi e un'affilata indagine
                                                                                                                                                                                         degli stati d'animo Alessandro Tamburini costruisce tasselli
                                                                                                                                                                                         adeguati di un mosaico di volti e di storie ai quali basta talvolta
-                                                                                                                                                                                        un piccolo impulso perch� emergano dall'oscuro groviglio del
-            passato. <i>Bagaglio leggero</i> � un agile romanzo corale fatto di
+                                                                                                                                                                                        un piccolo impulso perchè emergano dall'oscuro groviglio del
+            passato. <i>Bagaglio leggero</i> è un agile romanzo corale fatto di
                                                                                                                                                                                         tanti episodi e, contemporaneamente, di un'unica, composita cronaca
                                                                                                                                                                                         lenticolare che incolla i vari destini su uno spartito amaro di
                                                                                                                                                                                         occasioni millimetriche, ora portate via dal ritmo cadenzato del
-                                                                                                                                                                                        racconto, ora protese verso un'animazione pi� accesa, sollevata,
-                                                                                                                                                                                        rovesciata dalla pi� imprevedibili istanze o sigillate in un
+                                                                                                                                                                                        racconto, ora protese verso un'animazione più accesa, sollevata,
+                                                                                                                                                                                        rovesciata dalla più imprevedibili istanze o sigillate in un
                                                                                                                                                                                         segreto. Dal blocco a prima vista uniforme dei ricoverati si
                                                                                                                                                                                         staccano alcuni personaggi come tenuti dal filo conduttore in mano a
                                                                                                                                                                                         Damiana, giovane operatrice gentile e coinvolta in furtivi amori con
                                                                                                                                                                                         un collega, la quale dalla prima pagina assume la regia di sfogliare
-                                                                                                                                                                                        il copione della comunit�. E cos� incontriamo Stella con il suo
+                                                                                                                                                                                        il copione della comunità. Ecosì incontriamo Stella con il suo
                                                                                                                                                                                         "sospiro di nostalgia" e la passione per il canto; Scalvini, "ometto
                                                                                                                                                                                         mite", timoroso di tutto e assalito da incubi notturni; Franca Leni
                                                                                                                                                                                         dagli occhi di "bambina cocciuta" e dalla testolina che spunta "come
@@ -163,25 +163,25 @@ export default class WorksUltimaSera extends Component {
                                                                                                                                                                                         desolate storie di una vita, le incomprensioni e le ferite, le paure
                                                                                                                                                                                         mai spente, i sogni infranti, le famiglie disperse. Qualcuno esce
                                                                                                                                                                                         dalla Casa per rivedere il suo mondo svanito, chiedendo forse troppo
-                                                                                                                                                                                        a una sortita nel silenzio e nella solitudine. C'� chi non ha pi�
+                                                                                                                                                                                        a una sortita nel silenzio e nella solitudine. C'è chi non ha più
                                                                                                                                                                                         voglia di ricordare e chi si riaccosta ai propri sogni per ritrovare
                                                                                                                                                                                         intense emozioni e chi vuole prendersi una rivincita sul male.
                                                                                                                                                                                         Avviene anche un evento inatteso e quasi incredibile: un amore
-                                                                                                                                                                                        scoccato cinquant'anni prima rivive fra le insidie della citt�
+                                                                                                                                                                                        scoccato cinquant'anni prima rivive fra le insidie della città
                                                                                                                                                                                         caotica riaccendendo l'illusione di qualcosa che non esiste ma che
                                                                                                                                                                                         non si vuol perdere. Intanto impallidisce il sole nelle brevi
-                                                                                                                                                                                        giornate di marzo. E non si sa dove, da quale parte � la
+                                                                                                                                                                                        giornate di marzo. E non si sa dove, da quale parteè la
             meta.<br /><br /><br /></div>
                                                 <div class="tabelindex">
                                                     <hr width="70%" />
                                                     <br /><br />Nella casa di riposo torna la guerra<br /></div>
                                                 <div class="tabelindex1">
-                                                    Sergio Pent, Tuttolibri<br /><br />C'� una
+                                                    Sergio Pent, Tuttolibri<br /><br />C'è una
                                                     certa ritrosia a scrivere un romanzo - che non sia di matrice
                                                     satirico-grottesca - con dei protagonisti anziani, soprattutto se
-                                                    acciaccati o assillati da problemi desolanti. Eppure � pi� che mai
-                                                    piena l'agenda delle ispirazioni, in questa societ� emarginante e
-                                                    impotente di fronte alla moltitudine di vecchietti pi� o meno
+                                                    acciaccati o assillati da problemi desolanti. Eppureè più che mai
+                                                    piena l'agenda delle ispirazioni, in questa società emarginante e
+                                                    impotente di fronte alla moltitudine di vecchietti più o meno
                                                     arzilli che hanno la pretesa di vivere a lungo e possibilmente
                                                     mangiando due volte al giorno. Nella nostra narrativa rammentiamo
                                                     con sempre rinnovata nostalgia i bei personaggi ormai estinti de
@@ -190,33 +190,33 @@ export default class WorksUltimaSera extends Component {
             sera</i> di Simonetta o la maklinconia di <i>Buon Natale Buon
             Anno</i> di Festa Campanile. E come dimenticare il professor
             Giovanni Bertola del <i>Passo d'addio</i> o i mitici Giuan e Olona
-            di <i>Randagio � l'eroe</i>, creati dalla penna del grande Giovanni
+            di <i>Randagioè l'eroe</i>, creati dalla penna del grande Giovanni
             Arpino?<br />Questo <i>Bagaglio leggero</i> di Alessandro Tamburini -
                                                                                                                                                                                                                     autore finora mai troppo osannato, ma con all'attivo racconti
             eccellenti e almeno un nobile romanzo, <i>L'onore delle armi</i> -
                                                                                                                                                                                                                     si specchia invece su un versante ancor meno frequentato, quello
-                                                                                                                                                                                                                    delle case per anziani. Il materiale � generoso, basta scegliere tra
-                                                                                                                                                                                                                    commozione e sarcasmo, denuncia sociale o intimismo, poich� le
-                                                                                                                                                                                                                    problematiche della cosidetta terza et� sono infinite, come le vie
-                                                                                                                                                                                                                    per arrivare alla fine dl mese. "Villa Serena" � un ospizio
+                                                                                                                                                                                                                    delle case per anziani. Il materialeè generoso, basta scegliere tra
+                                                                                                                                                                                                                    commozione e sarcasmo, denuncia sociale o intimismo, poichè le
+                                                                                                                                                                                                                    problematiche della cosidetta terza età sono infinite, come le vie
+                                                                                                                                                                                                                    per arrivare alla fine dl mese. "Villa Serena"è un ospizio
                                                                                                                                                                                                                     dignitoso, non si manifestano le ribellioni isteriche
             dell'indiavolata <i>Festa all'ospizio</i> di John Updike, ma - come
                                                                                                                                                                                                                     dappertutto - sono la memoria e la mestizia ad averla vinta sui
-                                                                                                                                                                                                                    degenti, abbandonati con dignit� all'ultima parte del loro viaggio,
+                                                                                                                                                                                                                    degenti, abbandonati con dignità all'ultima parte del loro viaggio,
                                                                                                                                                                                                                     ma comunque abbandonati. La casa di riposo percorsa in visita da
                                                                                                                                                                                                                     Tamburini rispecchia senza enfasi una situazione emblematica nella
-                                                                                                                                                                                                                    sua caotica normalit�: operatori e volontari si destreggiano con
+                                                                                                                                                                                                                    sua caotica normalità: operatori e volontari si destreggiano con
                                                                                                                                                                                                                     frenesia tra le decine di esigenze che fanno ripiombare gli ospiti
-                                                                                                                                                                                                                    nelle primarie necessit� d'attenzione riservate ai neonati. La
+                                                                                                                                                                                                                    nelle primarie necessità d'attenzione riservate ai neonati. La
                                                                                                                                                                                                                     giovane Damiana e il suo ragazzo Pietro zompano da un piano
                                                                                                                                                                                                                     all'altro per arginare cadute libere nel disastro fisico, per
                                                                                                                                                                                                                     svuotare pitali e convincere riottosi a lavarsi, ad alzarsi dal
-                                                                                                                                                                                                                    letto-rifugio o ad uscire dalle ossessioni di un mutismo che �
+                                                                                                                                                                                                                    letto-rifugio o ad uscire dalle ossessioni di un mutismo cheè
             l'ultima forma di protesta contro l'abbandono.<br />La situazione
                                                                                                                                                                                                                     degenera - almeno in parte - quando l'ospizio deve essere sgomberato
                                                                                                                                                                                                                     per una giornata a causa del disinnescamento di un ordigno bellico
                                                                                                                                                                                                                     ritrovato nelle vicinanze. Non si crea il caos, ma la memoria del
-                                                                                                                                                                                                                    passato bussa ancora pi� forte alla porta dei vari personaggi che
+                                                                                                                                                                                                                    passato bussa ancora più forte alla porta dei vari personaggi che
                                                                                                                                                                                                                     vedono l'episodio inatteso come un avvenimento determinante,
                                                                                                                                                                                                                     addirittura fatale. In questa confusione tornano a galla guerre
                                                                                                                                                                                                                     lontane e parenti defunti, corse sui prati e amori perduti nel
@@ -224,20 +224,20 @@ export default class WorksUltimaSera extends Component {
                                                                                                                                                                                                                     alcuni degli ospiti, dal rancoroso ragionier Bertoni alla tenera
                                                                                                                                                                                                                     cantante fallita Stella, dal minuscolo Scalvini alla "duchessa"
                                                                                                                                                                                                                     Ludovica e all'emigrante Francesco. Saranno proprio questi ultimi
-                                                                                                                                                                                                                    due a imprimere una svolta inattesa alla coralit� del romanzo,
+                                                                                                                                                                                                                    due a imprimere una svolta inattesa alla coralità del romanzo,
                                                                                                                                                                                                                     ricomponendosi nel remotissimo amore che li aveva avvicinati mezzo
                                                                                                                                                                                                                     secolo prima e tentando insieme l'avventura di una fuga, forse
             l'ultima, forse l'unica di una vita intera.<br />Diciamo onestamente 
                                                                                                                                                                                                                     che Tamburini aveva tra le mani un bel soggetto da raccontare, e per 
-                                                                                                                                                                                                                    una volta ci si ritrova a condannare la sintesi pi� che 
-                                                                                                                                                                                                                    l'esuberanza: il romanzo gestisce con abilit� la sua traccia, ma 
+                                                                                                                                                                                                                    una volta ci si ritrova a condannare la sintesi più che 
+                                                                                                                                                                                                                    l'esuberanza: il romanzo gestisce con abilità la sua traccia, ma 
                                                                                                                                                                                                                     restando a giocare sulla superficie delle cose, quando avrebbe 
                                                                                                                                                                                                                     potuto diventare un piccolo monumento al disagio della vecchiaia. E 
-                                                                                                                                                                                                                    anche l'ultima parte, cos� privatamente sganciata dal contesto, si 
+                                                                                                                                                                                                                    anche l'ultima parte,così privatamente sganciata dal contesto, si 
                                                                                                                                                                                                                     legge con tenerezza, ma come se fosse l'appendice di una storia non 
                                                                                                                                                                                                                     conclusa, in cui viene a mancare il necessario approfondimento alla 
-                                                                                                                                                                                                                    coralit� delle intenzioni iniziali. Anche cos�, comunque, il 
-                                                                                                                                                                                                                    racconto � percorso da una leggerezza che sfiora le emozioni, lancia 
+                                                                                                                                                                                                                    coralità delle intenzioni iniziali. Anchecosì, comunque, il 
+                                                                                                                                                                                                                    raccontoè percorso da una leggerezza che sfiora le emozioni, lancia 
                                                                                                                                                                                                                     segnali d'allarme, ma si spinge ad azzardare scommesse sulle estreme 
                                                                                                                                                                                                                     - magari piacevoli - sorprese riservate dalla vita.
                                                                                                                                                                                                                     
@@ -251,41 +251,41 @@ export default class WorksUltimaSera extends Component {
                                                         <div class="tabelindex1">
                                                             Generoso Picone, il Mattino di Napoli, 30 luglio 2006<br /><br />
 
-                                                                Il recupero di un ordigno bellico che per cinquant�anni � stato
-                                                                l� sottoterra inesploso rende necessario lo sgombero temporaneo
-                                                                della vicina casa di riposo. Tutto avverr� in una giornata, 
-                                                                per� tanto basta per sconvolgere la vita degli anziani ospiti 
+                                                                Il recupero di un ordigno bellico che per cinquant'anniè stato
+                                                                lìsottoterra inesploso rende necessario lo sgombero temporaneo
+                                                                della vicina casa di riposo. Tutto avverrà in una giornata, 
+                                                                però tanto basta per sconvolgere la vita degli anziani ospiti 
                                                                 che non solo si vedono costretti a modificare abitudini e 
                                                                 comportamenti ma devono fare i conti con quanto riemerge 
-                                                                insieme a quella bomba: con l�orologio del tempo che torna indietro, 
+                                                                insieme a quella bomba: con l'orologio del tempo che torna indietro, 
                                                                 con il tempo perduto che per poche ore pare possibile ritrovare. Alessandro 
                                                                 Tamburini (nella foto) pone al centro di Bagaglio leggero (Pequod, pagg. 158, euro 14) 
-                                                                quest�episodio facendolo diventare per paradosso rovesciato il detonatore di una serie di 
+                                                                quest'episodio facendolo diventare per paradosso rovesciato il detonatore di una serie di 
                                                                 episodi concatenati e collocati in una cornice come in un romanzo. Il brano finale, 
-                                                                che d� titolo al libro, � il pi� esplicito nel delineare il tema: 
+                                                                che dà titolo al libro,è il più esplicito nel delineare il tema: 
                                                                 soltanto nel trambusto del trasferimento provvisorio Francesco 
                                                                 e Ludovica si riconoscono come i due giovani che decenni prima furono innamorati 
                                                                 per poi perdersi e decidono di vivere quella libera uscita alla maniera di 
-                                                                una fuga verso un avvenire insieme, sar� quel che sar�. �E per una volta le 
+                                                                una fuga verso un avvenire insieme, sarà quel che sarà.èE per una volta le 
                                                                 sembrava che avesse avuto un senso, che i ricordi potessero addirittura servire 
-                                                                a qualcosa, dal momento che non erano pi� l�attestazione di una perdita, ma il tramite 
-                                                                di un possibile ritorno alla vita, fosse anche per una giornata sola�. Nelle pagine che 
+                                                                a qualcosa, dal momento che non erano più l'attestazione di una perdita, ma il tramite 
+                                                                di un possibile ritorno alla vita, fosse anche per una giornata sola. Nelle pagine che 
                                                                 tratteggiano il ritrovato amore tra i due anziani, Tamburini mostra una grazia di 
                                                                 scrittura che rende addirittura con commozione i sussulti, le emozioni, i gesti, 
-                                                                i pensieri, i sogni. � la prova di una maturit� narrativa raggiunta, 
-                                                                acquisita alla scuola bilenchiana dell�essenzialit� del segno e 
+                                                                i pensieri, i sogni.è la prova di una maturità narrativa raggiunta, 
+                                                                acquisita alla scuola bilenchiana dell'essenzialità del segno e 
                                                                 modellata in una lunga frequentazione artigianale, sempre coerente 
-                                                                a un progetto letterario. Perch� Alessandro Tamburini - interprete 
-                                                                della cosiddetta generazione degli anni �80, cio� quella di Enrico 
+                                                                a un progetto letterario. Perchè Alessandro Tamburini - interprete 
+                                                                della cosiddetta generazione degli anniè80, cioè quella di Enrico 
                                                                 Palandri, Claudio Piersanti e Pier Vittorio Tondelli - fa qui risaltare 
                                                                 le due caratteristiche fondamentali del suo impegno: uno sguardo attento 
-                                                                e discreto - etico, si ebbe a dire a proposito dell�esordio con i racconti 
-                                                                di Ultima sera dell�anno nel 1986 - sulle cose della vita e una rispettosa 
-                                                                capacit� introspettiva che lo porta - specie nel romanzo L�onore delle armi 
+                                                                e discreto - etico, si ebbe a dire a proposito dell'esordio con i racconti 
+                                                                di Ultima sera dell'anno nel 1986 - sulle cose della vita e una rispettosa 
+                                                                capacità introspettiva che lo porta - specie nel romanzo l'onore delle armi 
                                                                 del 1997 - a individuare quella forza del passato che fatica a emergere nella 
                                                                 coscienza ma che, quando vi riesce, realizza una sorta di implacabile epifania
-                                                                della verit�. Il percorso che delinea Bagaglio leggero � di liberazione ma 
-                                                                dopo aver attraversato l�intero paesaggio interiore costruito nel tempo. 
+                                                                della verità. Il percorso che delinea Bagaglio leggeroè di liberazione ma 
+                                                                dopo aver attraversato l'intero paesaggio interiore costruito nel tempo. 
                                                                 Duro e sofferto lavoro in cui si racchiude in fondo la vita. 
                                                             	
                                                             	

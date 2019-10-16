@@ -64,7 +64,7 @@ export default class Sidebar extends Component {
                   </li> */}
                   <li>
                     <a href="#sendmail" data-nav-section="sendmail">
-                      Posta
+                      Contatti
                     </a>
                   </li>
                 </ul>

@@ -39,7 +39,7 @@ export default class WorksUltimaSera extends Component {
                             Generoso Picone, Il Mattino di Napoli, 24.7.90<br />
                             Claudio Marabini, Il Resto del Carlino, 15.5.91<br />
                             Giampaolo Rugarli, L'Espresso, 12.8.90<br />
-                            Attilio Lolini, L'Unit�, 24.1.<br />r>
+                            Attilio Lolini, L'Unità, 24.1.<br />r>
 Fulvio Panzeri, Avvenire, 3.5.91<br />
                             Filippo La Porta, Il Manifesto, 5.10.90<br />
                             Bruno Kandler, Panorama, 9.12.90<br />

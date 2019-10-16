@@ -50,7 +50,7 @@ Fulvio Panzeri, Avvenire, 28.5.94<br />
                                     <tr>
 
                                         <td align="center" width="100%">L'Unità 20/6/1994 &quot;Tutti in Fuga
-        Dalla Realt�&quot; di Giuseppe Gallo. (177k)</td><td><a href="rec\portaaperta-tuttiinfuga.zip"><img
+        Dalla Realtà&quot; di Giuseppe Gallo. (177k)</td><td><a href="rec\portaaperta-tuttiinfuga.zip"><img
                                             src="./img/rec/portaaperta-tuttiinfuga_small.jpg" alt="scarica in formato zip" width="248"
                                             height="288"></img></a>
                                         </td>
