@@ -9,7 +9,7 @@ export default class SendMail extends Component {
 
             <div className="text-center">
 
-              <span className="email"><i className="icon-mail"></i><a href="mailto:alessandro-tamburini@libero.it" target="_blank">alessandro-tamburini@libero.it</a></span>
+              <span className="email"><i className="icon-mail"></i><a href="mailto:alessandro-tamburini@libero.it" rel="noopener noreferrer" target="_blank">alessandro-tamburini@libero.it</a></span>
             </div>
 
 

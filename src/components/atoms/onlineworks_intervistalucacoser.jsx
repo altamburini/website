@@ -9,7 +9,7 @@ export default class OnlineWorksIntervistaLucaCoser extends Component {
             <div class="modal-header">
                 <h5 class="modal-title">Testo dell’intervista ad Alessandro Tamburini, uscita sul Corriere della sera (pagine del “Corriere del Trentino”), a cura di Luca Coser, in data 8 marzo 2006</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">×</span>
+                <span aria-hidden="true">CHIUDI</span>
                 </button>
             </div>
             <div class="modal-body p-4" id="result">
@@ -191,7 +191,7 @@ storie, nel senso più classico del termine, e lavoro in questa direzione.</span
             </div>
             <div class="modal-footer">
             Ultima Sera Dell'anno - Il lavoro editoriale,Ancona, 1988
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
             </div>
         </div>
     </div>

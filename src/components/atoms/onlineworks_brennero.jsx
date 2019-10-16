@@ -9,7 +9,7 @@ export default class OnlineWorksBrennero extends Component {
             <div class="modal-header">
                 <h5 class="modal-title">Brennero - Alessandro Tamburini</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">×</span>
+                <span aria-hidden="true">CHIUDI</span>
                 </button>
             </div>
             <div class="modal-body p-4" id="result">
@@ -97,7 +97,7 @@ Accelerò il passo quando il fischio di un treno risuonò e riecheggiò nel brev
                    
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
             </div>
         </div>
     </div>

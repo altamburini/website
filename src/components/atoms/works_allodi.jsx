@@ -9,7 +9,7 @@ export default class WorksUltimaSera extends Component {
                         <div class="modal-header">
                             <h5 class="modal-title"><strong>&quot;Italo allodi. Ascesa e caduta di un Principe del calcio&quot; </strong>(biografia): <em>Italic-peQuod, 2012, Milano.</em></h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">×</span>
+                            <span aria-hidden="true">CHIUDI</span>
                             </button>
                         </div>
                         <div class="modal-body p-4" id="result">
@@ -104,7 +104,7 @@ width="156"
 
             </div>
                                 <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
                                 </div>
                             </div>
                         </div>

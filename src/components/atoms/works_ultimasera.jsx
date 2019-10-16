@@ -10,7 +10,7 @@ export default class WorksUltimaSera extends Component {
                         <div class="modal-header">
                             <h5 class="modal-title"><strong>&quot;Ultima sera dell'anno&quot;</strong>(racconti):<em> &nbsp;&nbsp;Il lavoro editoriale,Ancona, 1988,&nbsp;  </em></h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">×</span>
+                                <span aria-hidden="true">CHIUDI</span>
                             </button>
                         </div>
                         <div class="modal-body p-4" id="result">
@@ -67,7 +67,7 @@ Giampaolo Visetti, L'Adige, 9.6.88<br />
                             </table>
                         </div>
                         <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
                         </div>
                     </div>
                 </div>

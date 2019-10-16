@@ -9,7 +9,7 @@ export default class WorksUltimaSera extends Component {
             <div class="modal-header">
                 <h5 class="modal-title"><strong>&quot;L'uomo al muro. Fenoglio e la guerra nei ventitre giorni della città di alba&quot; </strong>(monografia): <em>Italic-peQuod , 2016.</em></h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">×</span>
+                <span aria-hidden="true">CHIUDI</span>
                 </button>
             </div>
             <div class="modal-body p-4" id="result">
@@ -103,7 +103,7 @@ export default class WorksUltimaSera extends Component {
 
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
             </div>
         </div>
     </div>

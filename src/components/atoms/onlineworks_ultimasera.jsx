@@ -10,7 +10,7 @@ export default class OnlineWorksUltimaSera extends Component {
                             <h5 class="modal-title">Ultima sera dell'anno - Alessandro
             Tamburini</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">×</span>
+                                <span aria-hidden="true">CHIUDI</span>
                             </button>
                         </div>
                         <div class="modal-body p-4" id="result">
@@ -64,7 +64,7 @@ Pensare, che quando c'era il babbo abitavano in un palazzo tutto loro, con tante
                             Dei passi che non conosce risuonano nell'ingressino, e Stella è ancora immobile sulla porta quando dal corridoio compare la sagoma infagottata di sua cugina Elena.<br /><br />
 
                             *
-
+    
 <br /><br />Mentre apre la porta d'ingresso, si accorge che la poltrona di vimini è vuota. Ha un attimo di spavento quando vede che anche in bagno la nonna non c'è. Dice "Nonna, dove sei?" e infila di corsa il corridoio.<br />
                             "Siamo qui, siamo qui," risponde da in fondo la voce della zia Elena.
 Trova la nonna già sotto le coperte, con la borsa dell'acqua calda stretta al petto. La zia Elena è seduta in poltrona e gli sorride come sempre, appena lo vede; si occupa lei della nonna quando deve tornare in ospedale; anche con lei occorre quindi essere tolleranti e pazienti. Quando è arrivato in paese, Francesco le aveva detto "Ora sono qua io, approfittane per pensare alle tue cose, che ne avrai da fare!" Ma lei non sa rinunciare alle sue visite serali, nemmeno stasera che è l'ultimo dell'anno. È una superattiva, non sta mai ferma, e naturalmente parla in continuazione. L'ultima volta che sono stati a mangiare a casa sua, - sono passati molti anni da allora, - mentre gli ospiti terminavano il pranzo lei era già in piedi, e, sempre parlando, spolverava con ogni cura le porcellane.<br />
@@ -162,11 +162,11 @@ Sorride mentre pensa al vecchio William che lavora quando gli capita, dorme da u
                         </div>
                         <div class="modal-footer">
                             Ultima Sera Dell'anno - Il lavoro editoriale,Ancona, 1988
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div >
 
 
         )

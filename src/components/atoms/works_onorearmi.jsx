@@ -9,10 +9,10 @@ export default class WorksUltimaSera extends Component {
                         <div class="modal-header">
                             <h5 class="modal-title"><strong>&quot;L'onore delle
         armi&quot; </strong>(romanzo): <em>Bompiani, 1997, Milano.</em><br /> <br />Finalista
-                                                                                                                                                                                                        Premio Rea. Vincitore Premio città di Catanzaro.
+                                                                                                                                                                                                                                                                                Premio Rea. Vincitore Premio città di Catanzaro.
         Vincitore Premio Grinzane Cavour.</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">×</span>
+                                <span aria-hidden="true">CHIUDI</span>
                             </button>
                         </div>
                         <div class="modal-body p-4" id="result">
@@ -66,7 +66,7 @@ Giacomo Anderle, Vita Trentina, 30.3.97<br />
                             <div align="left">
                                 <strong>Selezione Stampa</strong>
 
-                                <table border="0" align="center" cellspacing="7" align="left" >
+                                <table border="0" align="center" cellspacing="7">
                                     <tr>
                                         <td align="center" width="100%">  &quot;Due topoi si incontrano nel romanzo&quot; di
 Ermanno Paccagnini.(155k)</td>
@@ -133,11 +133,11 @@ Ermanno Paccagnini.(155k)</td>
 
                         </div>
                         <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div >
 
 
         )

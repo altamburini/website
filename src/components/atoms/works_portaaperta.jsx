@@ -12,7 +12,7 @@ export default class WorksUltimaSera extends Component {
                                 Finalista al premio &quot;Chianti&quot; (Greve in
         Chianti) edizione '94-'95. </h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">×</span>
+                                <span aria-hidden="true">CHIUDI</span>
                             </button>
                         </div>
                         <div class="modal-body p-4" id="result">
@@ -46,7 +46,7 @@ Fulvio Panzeri, Avvenire, 28.5.94<br />
                             <div align="left">
                                 <strong>Selezione Stampa</strong>
 
-                                <table border="0" align="center" cellspacing="7" align="left">
+                                <table border="0" align="center" cellspacing="7">
                                     <tr>
 
                                         <td align="center" width="100%">L'Unità 20/6/1994 &quot;Tutti in Fuga
@@ -83,7 +83,7 @@ Fulvio Panzeri, Avvenire, 28.5.94<br />
 
                         </div>
                         <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
                         </div>
                     </div>
                 </div >
