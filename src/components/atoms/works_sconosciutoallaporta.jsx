@@ -79,7 +79,7 @@ export default class WorksUltimaSera extends Component {
             <td height="80"></td>
           </tr>
           <tr> 
-            <td valign="top"><img src="./img/cop/sconosciuto_med.jpg" width="97" height="144" border="0" alt="NO FILE FOUND"></img></td>
+            {/* <td valign="top"><img src="./img/cop/sconosciuto_med.jpg" width="97" height="144" border="0" alt="NO FILE FOUND"></img></td> */}
           </tr>
         </table></td>
       <td width="333" align="center" valign="top" bgcolor="#ffefce"> <table border="0" cellpadding="0" cellspacing="0" width="300">

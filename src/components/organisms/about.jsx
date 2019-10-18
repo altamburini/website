@@ -9,7 +9,12 @@ export default class About extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
-                  <div className="col-md-12">
+                  <div className="col-md-6">
+                    <div className="blog-entry">
+                      <img src="images/foto/foto_notabiog.jpg" className="img-responsive" alt="book cover" />
+                    </div>
+                  </div>
+                  <div className="col-md-6">
                     <div className="about-desc">
 
                       {/* <span className="heading-meta">About Us</span> */}
