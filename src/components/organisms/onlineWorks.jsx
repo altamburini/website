@@ -20,36 +20,31 @@ export default class OnlineWorks extends Component {
 							<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 								<div className="blog-entry">
 									<div className="desc">
-										<span>Ultima sera dell'anno (Ultima Sera Dell'anno - 1988)</span>
+										<span>Ultima sera dell'anno (Ultima Sera Dell'anno - 1988) <br /> Tratto dal volume di racconti omonimo, <br />Il lavoro editoriale, 1998
+</span>
 									</div>
-									<a href="#onlineworksultimasera" data-toggle="modal" className="blog-img">Leggi</a>
+									<a href="#onlineworksultimasera" data-toggle="modal" className="blog-img"><img src="images/testionline/ultimasera.jpg" className="img-responsive" alt="online test pic" /></a>
 									{/* <a href="zipfiles/ultimaseraracconto.zip" target="_blank" className="blog-img">Scarica</a> */}
 								</div>
 							</div>
 							<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 								<div className="blog-entry">
 									<div className="desc">
-										<span>Brennero (2008)</span>
+										<span>Brennero (2008) <br />Pubblicato, fra l’altro, in “Patrie impure. Italia, autoritratto a più voci”. <br />Rizzoli, 2003
+</span>
 									</div>
-									<a href="#onlineworksbrennero" data-toggle="modal" className="blog-img">Leggi</a>
+									<a href="#onlineworksbrennero" data-toggle="modal" className="blog-img"><img src="images/testionline/brennero.jpg" className="img-responsive" alt="online test pic" /></a>
 
 								</div>
 							</div>
 							<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 								<div className="blog-entry">
 									<div className="desc">
-										<span>Il cielo che prima non c'era (2009)</span>
+										<span>Il cielo che prima non c'era (2009)<br /> Pubblicato in italiano e nell’allegata traduzione inglese nell’Antologia “Present tensions”
+										 (European writers on overcoming dictatorships),<br /> edita da Central European University Press, e distribuita in vari Paesi.
+</span>
 									</div>
-									<a href="#onlineworkscielo" data-toggle="modal" className="blog-img">Leggi</a>
-
-								</div>
-							</div>
-							<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-								<div className="blog-entry">
-									<div className="desc">
-										<span>Intervista ad Alessandro Tamburini - Corriere della Sera - 8 marzo 2006</span>
-									</div>
-									<a href="#onlineworksintervistalucacoser" data-toggle="modal" className="blog-img">Leggi</a>
+									<a href="#onlineworkscielo" data-toggle="modal" className="blog-img"><img src="images/testionline/cielononcera.jpg" className="img-responsive" alt="online test pic" /></a>
 
 								</div>
 							</div>
