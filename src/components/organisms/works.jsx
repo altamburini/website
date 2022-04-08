@@ -137,7 +137,7 @@ export default class Works extends Component {
 								<div className="blog-entry">
 									<a href="#worksterrascotta" data-toggle="modal" className="blog-img"><img src="images/copertine/fofana_tamburini_copertina.jpg" className="img-responsive" alt="book cover" /></a>
 									<div className="desc">
-										<span><small>QUANDO LA TERRA SCOTTA. Vita di un giovane africano dal Mali al Trentino.<br /> Saggio <br /> Italic-peQuod <br /> 2019 </small></span>
+										<span><small>QUANDO LA TERRA SCOTTA. Vita di un giovane africano dal Mali al Trentino.<br /> Biografia <br /> Italic-peQuod <br /> 2019 </small></span>
 									</div>
 								</div>
 							</div>
