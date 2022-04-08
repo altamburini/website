@@ -9,20 +9,20 @@ export default class NewWork extends Component {
 
 						<div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
 							<div className="col-md-8" >
-								<h2 className="colorlib-heading">QUANDO LA TERRA SCOTTA. Vita di un giovane africano dal Mali al Trentino
+								<h2 className="colorlib-heading">Ultimi miracoli. otto racconti di Alessandro Tamburini, peQuod
 </h2>
-								<h2 className="desc"><span><small>Ediz. PeQuod, pag 245, euro 18 <br /> distribuz. Messaggerie, cod. 0978886068150</small></span>
+								<h2 className="desc"><span><small>In libreria dal 15 maggio 2022 <br /> 
+(distribuzione: Messaggerie. Codice: 9788860682123)
+</small></span>
 
 								</h2>
 
 								<div className="blog-entry">
 									<div className="desc">
-										<p>Soma Makan Fofana è un giovane approdato da clandestino sulle coste italiane, che qualche anno più tardi ha voluto raccontare per intero la propria esistenza. L'infanzia vissuta fra poverissimi villaggi del Mali e segnata da una serie di laceranti abbandoni. L'adolescenza che lo vede vagare per le strade della capitale Bamako, solo e affamato, straniero nel proprio Paese e spinto a compiere azioni che ancora oggi non riesce a perdonarsi. La scelta di cercare altrove una vita migliore, costretto però a subire le violenze e gli abusi dei trafficanti di uomini che presidiano i confini e l'infernale traversata del deserto. Il lungo periodo trascorso in Libia, dove dopo altre vicissitudini riesce a trovare una buona occupazione e una speranza per il futuro, finché lo scoppio della guerra civile che travolgerà Gheddafi lo priva nuovamente di tutto, gli lascia il mare come unica via di fuga. Ed ecco quindi il barcone degli scafisti, l’approdo a Lampedusa e la successiva destinazione in un Centro di accoglienza del Trentino. Per Soma è la svolta decisiva, con un lavoro che gli consente di dare aiuto ad altri giovani profughi, con una donna, una casa e la nascita di un figlio. Poi arriva l'incontro con lo scrittore insieme al quale decide di scrivere questo libro.  </p>
-										<p>Ha preso forma così quella che si presenta come un'esemplare vicenda di epica contemporanea, in cui fra continui colpi di scena si alternano sentimenti universali e sconvolgenti episodi, scenari di guerra e toccanti esperienze di amicizia e di amore, sullo sfondo di una delle più gravi emergenze del nostro tempo e di quello a venire.</p>
-										<br /><br />
 
-										<p>Soma Makan Fofana è nato in un villaggio nel sud del Mali una trentina di anni fa, non potrà mai sapere in che data precisa. Dopo le innumerevoli traversie di cui dà conto questo libro, nel 2011 è riuscito a raggiungere le coste italiane da immigrato clandestino. Di lì a poco è approdato in Trentino, dove dopo aver svolto varie attività oggi lavora come mediatore culturale in progetti di accoglienza.</p>
-
+									<p>I protagonisti di queste storie, antieroi dei nostri giorni, devono affrontare momenti cruciali o nodi irrisolti e nel contempo superare le proprie fragilità. Sono sospesi fra occasioni mancate e attese rivincite, mentre il destino prepara in segreto i suoi agguati. Un uomo già adulto non sa più chi sia il proprio vero padre. Un altro, in doloroso conflitto con la figlia, vede messa in crisi la scelta su cui ha fondato la propria esistenza. Due sorelle difendono la loro storica libreria, mentre un giovane bibliotecario vuole risolvere l’enigma di un messaggio di soccorso lasciato in un volume. </p>
+									<p>Con una scrittura asciutta e limpida, che rivela più di quanto dice, vengono messe in luce speranze e ossessioni, solitudini e intese profonde, come quella che nasce fra un assistente sociale e l’anziano invalido che un tempo fu il suo professore. Sotto la superficie della realtà preme una tensione che prelude a svolte inaspettate, per il lettore e per gli stessi protagonisti, accomunati dalla volontà di non arrendersi, dalla tenace ricerca di un varco salvifico. Di un ultimo miracolo possibile, come quello che illumina una coppia di profughi in una toccante natività odierna. </p>
+							
 									</div>
 
 
@@ -33,7 +33,7 @@ export default class NewWork extends Component {
 
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<div className="blog-entry">
-									<img src="images/copertine/fofana_tamburini_copertina.jpg" className="img-responsive" alt="book cover" />
+									<img src="images/copertine/ultimimiracoli.jpg" className="img-responsive" alt="book cover" />
 								</div>
 							</div>
 

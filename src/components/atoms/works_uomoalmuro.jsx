@@ -1,16 +1,17 @@
 import React, { Component } from 'react'
 
-export default class WorksUltimaSera extends Component {
+export default class WorksUomoAlMuro extends Component {
   render() {
     return (
  <div class="modal" id="worksuomoalmuro" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-full" role="document">
         <div class="modal-content">
             <div class="modal-header">
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
+            </div>
                 <h5 class="modal-title"><strong>&quot;L'uomo al muro. Fenoglio e la guerra nei ventitre giorni della città di alba&quot; </strong>(monografia): <em>Italic-peQuod , 2016.</em></h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">CHIUDI</span>
-                </button>
+               
             </div>
             <div class="modal-body p-4" id="result">
                    

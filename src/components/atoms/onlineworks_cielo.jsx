@@ -6,11 +6,11 @@ export default class OnlineWorksCielo extends Component {
 			<div class="modal" id="onlineworkscielo" tabindex="-1" role="dialog" aria-hidden="true">
 				<div class="modal-dialog modal-full" role="document">
 					<div class="modal-content">
+					<div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
+            </div>
 						<div class="modal-header">
 							<h5 class="modal-title">Il cielo che prima non c’era - Alessandro Tamburini</h5>
-							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								<span aria-hidden="true">CHIUDI</span>
-							</button>
 						</div>
 						<div class="modal-body p-4" id="result">
 

@@ -6,11 +6,12 @@ export default class OnlineWorksIntervistaLucaCoser extends Component {
  <div class="modal" id="onlineworksintervistalucacoser" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-full" role="document">
         <div class="modal-content">
+        <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
+            </div>
             <div class="modal-header">
                 <h5 class="modal-title">Testo dell’intervista ad Alessandro Tamburini, uscita sul Corriere della sera (pagine del “Corriere del Trentino”), a cura di Luca Coser, in data 8 marzo 2006</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">CHIUDI</span>
-                </button>
+
             </div>
             <div class="modal-body p-4" id="result">
             <p  ><span > </span></p>

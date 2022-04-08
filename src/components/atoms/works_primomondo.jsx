@@ -1,20 +1,21 @@
 import React, { Component } from 'react'
 
-export default class WorksUltimaSera extends Component {
+export default class WorksPrimoMondo extends Component {
     render() {
         return (
             <div class="modal" id="worksprimomondo" tabindex="-1" role="dialog" aria-hidden="true">
                 <div class="modal-dialog modal-full" role="document">
                     <div class="modal-content">
+                    <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
+            </div>
                         <div class="modal-header">
                             <h5 class="modal-title">  <strong>&quot;Nel nostro primo
         mondo&quot;</strong>(racconti): &nbsp;<em>Marsilio Editori, Venezia, 1990 .</em><br /><br />
                                 Selezionato dalla Fondazione Bellonci, Roma, per l'Invito
                                 alla lettura 1991. Vincitore del Premio
         &quot;Settembrini&quot; 1991.  </h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">CHIUDI</span>
-                            </button>
+                           
                         </div>
                         <div class="modal-body p-4" id="result">
 

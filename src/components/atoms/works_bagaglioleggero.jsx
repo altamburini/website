@@ -1,16 +1,17 @@
 import React, { Component } from 'react'
 
-export default class WorksUltimaSera extends Component {
+export default class WorksBagaglioLeggero extends Component {
     render() {
         return (
             <div class="modal" id="worksbagaglioleggero" tabindex="-1" role="dialog" aria-hidden="true">
                 <div class="modal-dialog modal-full" role="document">
                     <div class="modal-content">
+                    <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
+            </div>
                         <div class="modal-header">
                             <h5 class="modal-title"><strong>&quot;Bagaglio Leggero&quot; </strong>(romanzo): <em>peQuod , 2006.</em></h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">CHIUDI</span>
-                            </button>
+                            
                         </div>
                         <div class="modal-body p-4" id="result">
                             <div align="left">

@@ -1,16 +1,16 @@
 import React, { Component } from 'react'
 
-export default class WorksUltimaSera extends Component {
+export default class WorksTerraScotta extends Component {
   render() {
     return (
  <div class="modal" id="worksterrascotta" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-full" role="document">
         <div class="modal-content">
+          <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
+            </div>
             <div class="modal-header">
-                <h5 class="modal-title"><strong>&quot;L'uomo al muro. Fenoglio e la guerra nei ventitre giorni della città di alba&quot; </strong>(monografia): <em>Italic-peQuod , 2016.</em></h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">CHIUDI</span>
-                </button>
+                <h5 class="modal-title"><strong>&quot;QUANDO LA TERRA SCOTTA. Vita di un giovane africano dal Mali al Trentino&quot; </strong>(biografia): <em>Ediz. PeQuod 2019, pag 245, euro 18 <br /> distribuz. Messaggerie, cod. 0978886068150.</em></h5>
             </div>
             <div class="modal-body p-4" id="result">
                    
@@ -28,30 +28,14 @@ export default class WorksUltimaSera extends Component {
 <br/> <br/>
 
         
+<div className="desc">
+										<p>Soma Makan Fofana è un giovane approdato da clandestino sulle coste italiane, che qualche anno più tardi ha voluto raccontare per intero la propria esistenza. L'infanzia vissuta fra poverissimi villaggi del Mali e segnata da una serie di laceranti abbandoni. L'adolescenza che lo vede vagare per le strade della capitale Bamako, solo e affamato, straniero nel proprio Paese e spinto a compiere azioni che ancora oggi non riesce a perdonarsi. La scelta di cercare altrove una vita migliore, costretto però a subire le violenze e gli abusi dei trafficanti di uomini che presidiano i confini e l'infernale traversata del deserto. Il lungo periodo trascorso in Libia, dove dopo altre vicissitudini riesce a trovare una buona occupazione e una speranza per il futuro, finché lo scoppio della guerra civile che travolgerà Gheddafi lo priva nuovamente di tutto, gli lascia il mare come unica via di fuga. Ed ecco quindi il barcone degli scafisti, l’approdo a Lampedusa e la successiva destinazione in un Centro di accoglienza del Trentino. Per Soma è la svolta decisiva, con un lavoro che gli consente di dare aiuto ad altri giovani profughi, con una donna, una casa e la nascita di un figlio. Poi arriva l'incontro con lo scrittore insieme al quale decide di scrivere questo libro.  </p>
+										<p>Ha preso forma così quella che si presenta come un'esemplare vicenda di epica contemporanea, in cui fra continui colpi di scena si alternano sentimenti universali e sconvolgenti episodi, scenari di guerra e toccanti esperienze di amicizia e di amore, sullo sfondo di una delle più gravi emergenze del nostro tempo e di quello a venire.</p>
 
-          
 
-        A oltre cinquant&rsquo;anni dalla sua scomparsa, Beppe Fenoglio (Alba 1922 &ndash; Torino 1963) ha ottenuto piena consacrazione e viene reputato un classico del nostro Novecento.
-<br/><br/>
-        Ma non &egrave; stato sempre cos&igrave;. Un quadro ben diverso prese
-        forma nel 1952 intorno alla pubblicazione del suo primo libro, I ventitre giorni della citt&agrave; di Alba, accompagnata da incomprensioni ed equivoci, oltrech&eacute; dai feroci attacchi di una parte della critica, ostile per motivi ideologici alla
-        rappresentazione che Fenoglio dava della Resistenza. Questi nodi problematici sarebbero perdurati fino a diventare costitutivi della figura dell&rsquo;autore, condizionando lo sviluppo della sua opera come anche la valutazione a cui essa sarebbe
-        stata sottoposta.
-<br/><br/>
-        Uno dei principali intenti del presente testo consiste proprio nel rilevare la ricaduta negativa che l&rsquo;accidentata fase dell&rsquo;esordio ha avuto sull&rsquo;attivit&agrave; di Fenoglio, e quanto egli ne sia stato deviato e
-        penalizzato, anche rispetto al suo destino di scrittore postumo.
-<br/><br/>
-        Larga parte delle sue opere ha visto infatti la luce soltanto dopo la precoce scomparsa, dando il via all&rsquo;estenuante querelle sulla loro datazione che per decenni ha monopolizzato
-        l&rsquo;attivit&agrave; critica.
-<br/><br/>
-        Anche a ci&ograve; si deve che alcune di esse non siano state ancora sottoposte a uno studio mirato e approfondito, come appunto I ventitre giorni della citt&agrave; di Alba, a cui per la prima volta &egrave; qui
-        dedicata un&rsquo;intera monografia. Del libro d&rsquo;esordio di Fenoglio viene messo in luce anzitutto l&rsquo;alto valore letterario, sulla base delle qualit&agrave; espresse poi a pieno nelle successive opere.
-<br/><br/>
-        Se ne ricostruiscono la genesi e il campo della ricezione. Viene quindi trattata la visione della guerra propria dell&rsquo;autore, nella sua assoluta originalit&agrave;, sulla base di una disamina dei racconti legati a questo tema, ripresi infine in rapporto ad alcuni nuclei centrali,
-        attraverso rimandi ai libri successivi e la comparazione con quelli di altri autori coevi.
-<br/><br/>
-        Ne risulta un testo rigoroso e nel contempo chiaro e leggibile a tutti, in uno spirito di servizio nei confronti di Fenoglio e del suo incontro con i sempre
-        pi&ugrave; numerosi lettori ed estimatori della sua opera.
+										<p>Soma Makan Fofana è nato in un villaggio nel sud del Mali una trentina di anni fa, non potrà mai sapere in che data precisa. Dopo le innumerevoli traversie di cui dà conto questo libro, nel 2011 è riuscito a raggiungere le coste italiane da immigrato clandestino. Di lì a poco è approdato in Trentino, dove dopo aver svolto varie attività oggi lavora come mediatore culturale in progetti di accoglienza.</p>
+
+									</div>
       
    
 
@@ -60,27 +44,23 @@ export default class WorksUltimaSera extends Component {
 <br/>
 
 <strong>ne hanno scritto:</strong> <br/><br/>
-
 <ul>
-<li><a href="rec/uomoalmuro/adige.pdf" target="_blank" >Fabrizio Franchi, l’Adige, 11 febbraio 2016</a></li>
-<li>Fausta Slanzi, Trentino e Alto Adige, 19 febbraio 2016</li>
-<li>Silvia Pagliuca, Corriere del Trentino, 23 febbraio 2016</li>
-<li>Antonio Luccarini, il Messaggero, 16 febbraio 2016</li>
-<li><a href="rec/uomoalmuro/avvenire.pdf" target="_blank" >Massimo Raffaeli, Avvenire, 1 marzo 2016</a></li>
-<li><a href="rec/uomoalmuro/repubblica.pdf" target="_blank" >Paolo Mauri, il Venerdì di Repubblica, 25 marzo 2016</a></li>
-<li>Fausta Slanzi, Trentino, 30 agosto 2016</li>
-<li>Intervista a Fahrenheit, radio 3, 17 febbraio 2016</li>
-<li><a href="rec/uomoalmuro/italianistica_tamburini.pdf" target="_blank" >Carlo Zanantoni, Italianistica, Rivista di letteratura. Anno XLVI n. 2 maggio – agosto 2017</a></li>
+<li>Roberto Carnero, Famiglia cristiana, 13/2020</li>
+<li><a href="rec/quandolaterrascotta/Rassegna stampa 1.pdf" target="_blank" >Claudio Toscani, Avvenire, 7/12/2019</a></li>
+<li><a href="rec/quandolaterrascotta/Rassegna stampa 3.pdf" target="_blank" >Fabrizio Franchi, l’Adige, 3/11/2019</a></li>
+<li><a href="rec/quandolaterrascotta/Rassegna stampa 2.pdf" target="_blank" >Fausta Slanzi e Mario Cossali, Trentino, 7/11/2019</a></li>
+<li>N. T., Il Tirreno e La Nazione, 14/12/2019</li>
+<li>Cla.Ro., Il corriere di Romagna, 22/11/2019</li>
 
+<li>Intervista a “Fahrenheit”, RAI Radio 3, 3/12/2019</li>
 </ul>
 
-
-
-
-
-
-
 </td >
+
+
+</tr>
+<tr>
+<img src="images/foto/foto_alex_soma_med.jpg" className="img-responsive" alt="book cover" />
 
 
 </tr>

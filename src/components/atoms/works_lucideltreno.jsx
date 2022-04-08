@@ -6,15 +6,16 @@ export default class WorksLuciDelTreno extends Component {
             <div class="modal" id="workslucitreno" tabindex="-1" role="dialog" aria-hidden="true">
                 <div class="modal-dialog modal-full" role="document">
                     <div class="modal-content">
+                    <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
+            </div>
                         <div class="modal-header">
                             <h5 class="modal-title">
                                 <strong>&quot;Le luci del
         treno&quot; </strong>(romanzo): <em>Marsilio Editori, Venezia, 1992. </em> <br /><br />Inserito nel Programma Pilota 1992 di Invito alla lettura della Fondazione Bellonci. Finalista al Premio "Regium Giuli" 1992.
                                                                                                                                 Vincitore del Premio "Sirmione-Catullo" 1992.
         </h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">CHIUDI</span>
-                            </button>
+                          
                         </div>
                         <div class="modal-body p-4" id="result">
                             <div align="left">

@@ -6,11 +6,11 @@ export default class OnlineWorksBrennero extends Component {
  <div class="modal" id="onlineworksbrennero" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-full" role="document">
         <div class="modal-content">
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">CHIUDI</button>
+            </div>
             <div class="modal-header">
                 <h5 class="modal-title">Brennero - Alessandro Tamburini</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">CHIUDI</span>
-                </button>
             </div>
             <div class="modal-body p-4" id="result">
             Era un treno tedesco, moderno e confortevole come erano sempre i loro, o gli sembravano in confronto alle tradotte delle linee interne italiane. E lui lo apprezzava doppiamente perché si sentiva molto stanco. La trasferta di lavoro che lo portava due volte l'anno a Stoccarda era sempre un test del suo stato di forma, e stavolta ne usciva decisamente provato. Colpa anche di un contrattempo che gli aveva fatto saltare l’orario previsto, obbligandolo a un più oneroso viaggio notturno. Era buio già da diverse ore, e ancora molte ne mancavano per raggiungere la meta. <br/>
