@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+UPDATE INSTRUCTIONS:
+- modify website (branch = source)
+- test website (see yarn start below)
+- check if build ok (yarn build)
+- deploy to master branch - yarn deploy
+- check https://github.com/altamburini/website/actions for the deply workflow run to be done and ok
+- reopen your browser and go to https://alessandrotamburini.net/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -11,6 +21,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+
+### `yarn yarn deploy`
+
+calls yarn build (see below) and then calls the push to master of the optimized build.
+
 
 ### `yarn test`
 
