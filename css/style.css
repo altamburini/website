@@ -406,6 +406,7 @@ body.offcanvas {
   position: relative; }
 
 .colorlib-heading {
+  align-self: center;
   font-size: 18px;
   margin-bottom: 2em;
   font-weight: 700;
