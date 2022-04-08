@@ -1,4 +1,8 @@
 - Pagine singolo libro
+ - tasto chiudi migliore
+ - immagine piccola?
+
+
 - nuovo romanzo
 - Styling globale sidebar e area principale
 

@@ -8,6 +8,7 @@ import NewWork from "./components/organisms/newWork";
 import OnlineWorks from "./components/organisms/onlineWorks";
 // import Bookmarks from "./components/organisms/bookmarks";
 import SendMail from "./components/organisms/sendmail";
+import Footer from "./components/organisms/footer";
 
 
 import "./App.css";
@@ -36,6 +37,7 @@ tamburini, libri, libro, tondelli"
           <Works></Works>         
           <OnlineWorks></OnlineWorks>
           <SendMail></SendMail>
+          <Footer></Footer>
         </div>
       </div>
     </div>
