@@ -2384,6 +2384,13 @@ batch@0.6.1:
   resolved "https://registry.yarnpkg.com/batch/-/batch-0.6.1.tgz#dc34314f4e679318093fc760272525f94bf25c16"
   integrity sha1-3DQxT05nkxgJP8dgJyUl+UvyXBY=
 
+batchdelcache@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/batchdelcache/-/batchdelcache-1.0.1.tgz#56bbadb48ed590a9d0943afc68e97d6e0b258101"
+  integrity sha512-avIjsURApH1mFNwcy705yYWatG9DqxyQHz1dsG2d3Lp2EaigNSfG3HwhsoiTXtr3HUv/HzN9h18vwiF4BW//Ng==
+  dependencies:
+    callsite "^1.0.0"
+
 bcrypt-pbkdf@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.2.tgz#a4301d389b6a43f9b67ff3ca11a3f6637e360e9e"
@@ -2698,6 +2705,11 @@ caller-path@^2.0.0:
   integrity sha1-Ro+DBE42mrIBD6xfBs7uFbsssfQ=
   dependencies:
     caller-callsite "^2.0.0"
+
+callsite@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/callsite/-/callsite-1.0.0.tgz#280398e5d664bd74038b6f0905153e6e8af1bc20"
+  integrity sha512-0vdNRFXn5q+dtOqjfFtmtlI9N2eVZ7LMyEV2iKC5mEEFvSg/69Ml6b/WU2qF8W1nLRa0wiSrDT3Y5jOHZCwKPQ==
 
 callsites@^2.0.0:
   version "2.0.0"
@@ -8877,6 +8889,13 @@ relateurl@0.2.x:
   version "0.2.7"
   resolved "https://registry.yarnpkg.com/relateurl/-/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9"
   integrity sha1-VNvzd+UUQKypCkzSdGANP/LYiKk=
+
+reload-modules@^0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/reload-modules/-/reload-modules-0.8.0.tgz#1884b0e5eeed23de323b65ee6931ce2be512e86d"
+  integrity sha512-i5FnBTBr6L/ZlS0mzICfyU0R7PUcguMYOnbgfWh36niPAXi7PxgYfsUUZOKMjHovSejmLYG3iIBBc8yjYVopFg==
+  dependencies:
+    batchdelcache "^1.0.0"
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"

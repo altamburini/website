@@ -12,6 +12,7 @@ import WorksAllodi from "../atoms/works_allodi"
 import WorksUomoAlMuro from "../atoms/works_uomoalmuro"
 import WorksGiostraPrimavera from "../atoms/works_giostraprimavera"
 import WorksTerraScotta from "../atoms/works_terrascotta"
+import WorksUltimiMiracoli from "../atoms/works_ultimimiracoli"
 
 export default class Works extends Component {
 	render() {
@@ -25,6 +26,14 @@ export default class Works extends Component {
 							</div>
 						</div>
 						<div className="row">
+						<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+									<div className="blog-entry">
+										<a href="#worksultimimiracoli" data-toggle="modal" className="blog-img"><img src="images/copertine/ultimimiracoli.jpg" className="img-responsive" alt="book cover" /></a>
+										<div className="desc">
+											<span><small>Ultimi Miracoli.<br /> Racconti <br /> peQuod <br /> 2022 </small></span>
+										</div>
+									</div>
+							</div>
 							<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 									<div className="blog-entry">
 										<a href="#worksterrascotta" data-toggle="modal" className="blog-img"><img src="images/copertine/fofana_tamburini_copertina.jpg" className="img-responsive" alt="book cover" /></a>
@@ -139,30 +148,12 @@ export default class Works extends Component {
 									</div>
 								</div>
 							</div>
-
-							
-
-							
-
-						
-
-							
-
-							
-
-							
-
-
-							
-
-						
-
-						
 						</div>
 
 						<hr />
 
 					</div>
+
 					<WorksUltimaSera></WorksUltimaSera>
 					<WorksPrimoMondo></WorksPrimoMondo>
 					<WorksLuciDelTreno></WorksLuciDelTreno>
@@ -176,6 +167,7 @@ export default class Works extends Component {
 					<WorksUomoAlMuro></WorksUomoAlMuro>
 					<WorksGiostraPrimavera></WorksGiostraPrimavera>
 					<WorksTerraScotta></WorksTerraScotta>
+					<WorksUltimiMiracoli></WorksUltimiMiracoli>
 
 				</section>
 			</div>

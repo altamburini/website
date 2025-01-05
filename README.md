@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 UPDATE INSTRUCTIONS:
 - modify website (branch = source)
-- test website (see yarn start below)
+- test website (see yarn start below - also use 'export NODE_OPTIONS=--openssl-legacy-provider' if yarn start crashes)
 - check if build ok (yarn build)
 - deploy to master branch - yarn deploy
 - check https://github.com/altamburini/website/actions for the deply workflow run to be done and ok
