@@ -3,6 +3,9 @@ import OnlineWorksUltimaSera from "../atoms/onlineworks_ultimasera"
 import OnlineWorksBrennero from "../atoms/onlineworks_brennero"
 import OnlineWorksCielo from "../atoms/onlineworks_cielo"
 import OnlineWorksIntervistaLucaCoser from "../atoms/onlineworks_intervistalucacoser"
+import OnlineWorksSerra from "../atoms/onlineworks_serra"
+import OnlineWorksMeccanico from "../atoms/onlineworks_meccanico"
+import OnlineWorksBianchiMorti from "../atoms/onlineworks_bianchimorti"
 
 export default class OnlineWorks extends Component {
 	render() {
@@ -48,6 +51,40 @@ export default class OnlineWorks extends Component {
 
 								</div>
 							</div>
+
+							<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+								<div className="blog-entry">
+									<div className="desc">
+
+									<span>Un incontro con Renato Serra, <br />compreso nel volume <i>Scrittori nelle case degli scrittori </i><br />(Tre Lune Edizioni, 2017)										
+</span>
+									</div>
+									<a href="#onlineworksserra" data-toggle="modal" className="blog-img"><img src="images/testionline/renatoserra.jpg" className="img-responsive" alt="online test pic" /></a>
+
+								</div>
+							</div>
+
+							<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+								<div className="blog-entry"> 
+									<div className="desc">
+										<span>Un meccanico, <br />compreso nel volume  <i>Ultimi miracoli</i>, <br />Pequod 2022.
+</span>
+									</div>
+									<a href="#onlineworksmeccanico" data-toggle="modal" className="blog-img"><img src="images/testionline/unmeccanico.jpg" className="img-responsive" alt="online test pic" /></a>
+
+								</div>
+							</div>
+
+							<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+								<div className="blog-entry">
+									<div className="desc">
+										<span>I vestiti dei bianchi morti, <br /> apparso nella rivista <i>“Sotto il vulcano”</i>, (Feltrinelli) n.  8, agosto 2023, <br />poi compreso nel volume Fuochi, <br /> (Feltrinelli, 2024).
+</span>
+									</div>
+									<a href="#onlineworksbianchimorti" data-toggle="modal" className="blog-img"><img src="images/testionline/bianchimorti.jpg" className="img-responsive" alt="online test pic" /></a>
+
+								</div>
+							</div>
 						</div>
 
 
@@ -58,6 +95,9 @@ export default class OnlineWorks extends Component {
 					<OnlineWorksBrennero></OnlineWorksBrennero>
 					<OnlineWorksCielo></OnlineWorksCielo>
 					<OnlineWorksIntervistaLucaCoser></OnlineWorksIntervistaLucaCoser>
+					<OnlineWorksSerra></OnlineWorksSerra>
+					<OnlineWorksMeccanico></OnlineWorksMeccanico>
+					<OnlineWorksBianchiMorti></OnlineWorksBianchiMorti>
 				</section>
 			</div>
 		)

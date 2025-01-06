@@ -12,7 +12,7 @@ export default class OnlineWorksCielo extends Component {
 						<div class="modal-header">
 							<h5 class="modal-title">Il cielo che prima non c’era - Alessandro Tamburini</h5>
 						</div>
-						<div class="modal-body p-4" id="result">
+						<div class="modal-body-testionline p-4" id="result">
 
 
 							“Ti dico che le cose cambieranno! Hanno già cominciato a cambiare” disse Riccardo, fermandosi per dare più peso alle parole. Toni si fermò a sua volta, con la testa incassata fra le spalle e le mani affondate nelle tasche dei pantaloni. <br />
@@ -111,7 +111,7 @@ export default class OnlineWorksCielo extends Component {
 							<h5 class="modal-title">The sky that wasn’t there before - Alessandro Tamburini</h5>
 
 						</div>
-						<div class="modal-body p-4" id="result">
+						<div class="modal-body-testionline p-4" id="result">
 				
 				"I'm telling you that things are going to change! They've already begun to change," said Riccardo, stopping to give more weight to his words. Toni stopped as well, with his head sunk into his shoulders and his hands dug into the pockets of his trousers.
 				 "I wouldn't be so sure," he responded,  and with his tongue he toyed with a blade of grass that he had put into his mouth shortly before.

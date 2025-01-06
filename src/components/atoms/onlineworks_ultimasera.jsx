@@ -14,7 +14,7 @@ export default class OnlineWorksUltimaSera extends Component {
             Tamburini</h5>
                             
                         </div>
-                        <div class="modal-body p-4" id="result">
+                        <div class="modal-body-testionline p-4" id="result">
 
 
                             “Sicuro. Fanno tante storie e poi è una sera come un’altra,” ha detto la donna, compiaciuta; e Francesco, che da cinque giorni fa del suo meglio per essere calmo e paziente, stringe i denti ficcando gli occhi nel video perennemente acceso.<br />

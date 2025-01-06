@@ -13,7 +13,7 @@ export default class OnlineWorksIntervistaLucaCoser extends Component {
                 <h5 class="modal-title">Testo dell’intervista ad Alessandro Tamburini, uscita sul Corriere della sera (pagine del “Corriere del Trentino”), a cura di Luca Coser, in data 8 marzo 2006</h5>
 
             </div>
-            <div class="modal-body p-4" id="result">
+            <div class="modal-body-testionline p-4" id="result">
             <p  ><span > </span></p>
 
 <p ><b>LC:</b></p>   
