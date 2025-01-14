@@ -5,7 +5,11 @@ UPDATE INSTRUCTIONS:
 - modify website (branch = source)
 - test website (see yarn start below - also use 'export NODE_OPTIONS=--openssl-legacy-provider' if yarn start crashes)
 - check if build ok (yarn build)
-- push changes to source branch - if perm denied try : export GIT_SSH_COMMAND='ssh -v -F ~/.ssh/config_altamburini' (custom ssh file with correct identity - set up is not available)
+- push changes to source branch 
+    - if perm denied try : 
+        - export GIT_SSH_COMMAND='ssh -v -F ~/.ssh/config_altamburini' (custom ssh file with correct identity - set up is not available)
+        - ssh-add ~/.ssh/altamburini_github (the correct file with the ssh key for the repo)
+
 - deploy to master branch - yarn deploy
 - check https://github.com/altamburini/website/actions for the deply workflow run to be done and ok
 - reopen your browser and go to https://alessandrotamburini.net/

@@ -8,7 +8,7 @@ export default class Introduction extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-                <h2 className="colorlib-heading">Il nuovo libro di Alessandro Tamburini<br /> è il romanzo <i>Sul confine della luce</i>,<br /> Edizioni PeQuod. <br />In libreria da marzo 2025.</h2>
+                <h2 className="colorlib-heading">Il nuovo libro di Alessandro Tamburini<br /> è il romanzo <i>Sul confine della luce</i>,<br /> Edizioni PeQuod. <br />In libreria dal 20 Febbraio 2025.</h2>
               </div>
 
               <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">

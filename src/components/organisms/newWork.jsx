@@ -8,10 +8,10 @@ export default class NewWork extends Component {
 					<div className="colorlib-narrow-content">
 
 						<div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
-							<div className="col-md-8" >
-								<h2 className="colorlib-heading">Sul Confine Della Luce. Romanzo di Alessandro Tamburini, peQuod
+							<div className="col-md-6" >
+								<h2 className="colorlib-heading">Sul Confine Della Luce. Romanzo di Alessandro Tamburini. peQuod
 								</h2>
-								<h2 className="desc"><span><small>In libreria da marzo 2025 <br />
+								<h2 className="desc"><span><small>In libreria dal 20 Febbraio 2025<br />
 									(distribuzione: Messaggerie)
 								</small></span>
 								</h2>
@@ -31,7 +31,7 @@ export default class NewWork extends Component {
 
 
 
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 								<div className="blog-entry">
 									<img src="images/copertine/sul_confine_della_luce.jpg" className="img-responsive" alt="book cover" />
 								</div>
