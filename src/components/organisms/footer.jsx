@@ -7,7 +7,7 @@ export default class SendMail extends Component {
         <section className="colorlib-about" data-section="sendmail">
           <div className="colorlib-narrow-content">
             <div className="text-center">
-              <p>Tutti i diritti riservati © 2022 Alessandro Tamburini</p>
+              <p>Tutti i diritti riservati © 2026 Alessandro Tamburini</p>
             </div>
             <hr />
           </div>
