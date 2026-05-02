@@ -9,23 +9,32 @@ export default class NewWork extends Component {
 
 						<div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
 							<div className="col-md-6" >
-								<h2 className="colorlib-heading">Sul Confine Della Luce. Romanzo di Alessandro Tamburini. peQuod
+								<h2 className="colorlib-heading">Il NUOVO ROMANZO DI ALESSANDRO TAMBURINI
 								</h2>
-								<h2 className="desc"><span><small>In libreria dal 20 Febbraio 2025<br />
+								{/* <h2 className="desc"><span><small>In libreria dal 20 Febbraio 2025<br />
 									(distribuzione: Messaggerie)
 								</small></span>
-								</h2>
+								</h2> */}
 								<div className="blog-entry">
 									<div className="desc">
 
-										<p>Cosa scatta nella mente di un uomo quando scopre che sta per perdere la vista?
-										Ad Arrigo, un fotoreporter che ha seguito le proprie passioni senza mai voltarsi indietro, resta poco tempo per fare i conti col passato. Deve incontrare la compagna spagnola da cui si è allontanato anni prima. Vuole a ogni costo ritrovare la figlia che da allora si rifiuta di vederlo. Col sostegno di un giovane nipote si mette in viaggio, e ha inizio un’avventura dall’esito imprevedibile. La ricerca diventa indagine, poi frenetica corsa contro il tempo nello scenario andaluso. </p>
-										<p>Un finale inatteso dirà che niente era come sembrava, e che il viaggio dovrà varcare un nuovo confine per giungere a termine.
+										<p>Il nuovo romanzo di Alessandro Tamburini è ambientato in Marocco, paese
+sul quale l'autore ha già realizzato diversi scritti di viaggio comparsi
+sul quotidiano Avvenire e in programmi di RAI Radio3.  </p>
+
+<p>Potrebbe
+intitolarsi "Il rimedio del serpente".</p>
+										
+										<p>La sua data di uscita è ancora
+incerta ma è verosimile che possa collocarsi nel biennio 2028-29.
 										</p>
 
 									</div>
 
 
+								</div>
+								<div className="blog-entry">
+									<img src="images/marocco2.jpg" className="img-responsive" alt="book cover" /> 
 								</div>
 							</div>
 
@@ -33,7 +42,7 @@ export default class NewWork extends Component {
 
 							<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 								<div className="blog-entry">
-									<img src="images/copertine/sul_confine_della_luce.jpg" className="img-responsive" alt="book cover" />
+									<img src="images/marocco1.jpg" className="img-responsive" alt="book cover" /> 
 								</div>
 							</div>
 

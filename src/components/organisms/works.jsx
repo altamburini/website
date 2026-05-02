@@ -13,6 +13,7 @@ import WorksUomoAlMuro from "../atoms/works_uomoalmuro"
 import WorksGiostraPrimavera from "../atoms/works_giostraprimavera"
 import WorksTerraScotta from "../atoms/works_terrascotta"
 import WorksUltimiMiracoli from "../atoms/works_ultimimiracoli"
+import WorksConfineDellaLuce from "../atoms/works_confinedellaluce"
 
 export default class Works extends Component {
 	render() {
@@ -28,10 +29,20 @@ export default class Works extends Component {
 						<div className="row">
 						<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 									<div className="blog-entry">
+										<a href="#worksconfinedellaluce" data-toggle="modal" className="blog-img"><img src="images/copertine/sul_confine_della_luce.jpg" className="img-responsive" alt="book cover" /></a>
+										<div className="desc">
+											<span><small>Sul confine della luce <br />(pequod 2025) </small>
+										<br /><a href="https://www.ibs.it/sul-confine-della-luce-libro-alessandro-tamburini/e/9788860683861" target="_blank" rel="noopener noreferrer">Ibs</a> | <a href="https://www.amazon.it/Ultimi-miracoli-Alessandro-Tamburini/dp/8860682126/ref=sr_1_1?__mk_it_IT=M&crid=10PM4XIU7NJFS&keywords=Ultimi+miracoli+Alessandro+Tamburini&qid=1655124890&sprefix=ultimi+miracoli+alessandro+tamburini+aps119&sr=8-1" target="_blank" rel="noopener noreferrer">Amazon</a>
+										</span>
+										</div>
+									</div>
+							</div>
+						<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+									<div className="blog-entry">
 										<a href="#worksultimimiracoli" data-toggle="modal" className="blog-img"><img src="images/copertine/ultimimiracoli.jpg" className="img-responsive" alt="book cover" /></a>
 										<div className="desc">
 											<span><small>Ultimi Miracoli.<br /> Racconti <br /> peQuod <br /> 2022 </small>
-										<br /><a href="https://www.ibs.it/ultimi-miracoli-libro-alessandro-tamburini/e/9788860682123?inventoryId=370635730&queryId=6f23af2acb4816a76a7f179c94706175" target="_blank" rel="noopener noreferrer">Ibs</a> | <a href="https://www.amazon.it/Ultimi-miracoli-Alessandro-Tamburini/dp/8860682126/ref=sr_1_1?__mk_it_IT=M&crid=10PM4XIU7NJFS&keywords=Ultimi+miracoli+Alessandro+Tamburini&qid=1655124890&sprefix=ultimi+miracoli+alessandro+tamburini+aps119&sr=8-1" target="_blank" rel="noopener noreferrer">Amazon</a>
+										<br /><a href="https://www.ibs.it/ultimi-miracoli-libro-alessandro-tamburini/e/9788860682123?inventoryId=370635730&queryId=6f23af2acb4816a76a7f179c94706175" target="_blank" rel="noopener noreferrer">Ibs</a> | <a href="https://www.amazon.it/confine-della-luce-Alessandro-Tamburini/dp/8860683866" target="_blank" rel="noopener noreferrer">Amazon</a>
 										</span>
 										</div>
 									</div>
@@ -196,6 +207,7 @@ export default class Works extends Component {
 					<WorksGiostraPrimavera></WorksGiostraPrimavera>
 					<WorksTerraScotta></WorksTerraScotta>
 					<WorksUltimiMiracoli></WorksUltimiMiracoli>
+					<WorksConfineDellaLuce></WorksConfineDellaLuce>
 
 				</section>
 			</div>
